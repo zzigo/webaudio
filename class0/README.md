@@ -1,5 +1,3 @@
-$\color{gray} web.audio@hem$
-
 # 0.0 Introduction
 
 Hello all, this is Webaudio. We will discuss what is internet and how we can interpret and rebuild it from a musical perspective, and how to transform the browser into a  transmodal musical instrument.
@@ -21,23 +19,17 @@ so , Welcome to Web-audio at HEM.
 1. The audio context is an object that will contain everything related to web audio. It's similar to the concept of canvas in js and in puredata.  Technically speaking is an instance that start a thread (a memory allocation on the RAM of the microprocessor being evaluated continuously).
 2. AudioContext is an audio node-graph:
 
-<!--     [https://kroki.io/blockdiag/svg/eNpLyslPzk7JTExXqOZSUPAPdvb08XEM8Q9S0LVTcIsAkUoursEhnn6OIZ7-fkrWXLUAdmkNvg==](https://kroki.io/blockdiag/svg/eNpLyslPzk7JTExXqOZSUPAPdvb08XEM8Q9S0LVTcIsAkUoursEhnn6OIZ7-fkrWXLUAdmkNvg==) -->
-
-
-
-- For example, you play the guitar, and you have an amp, well, the guitar is a source, and the amp is the destination.
-
-
-
 <img src="./webaudioapi-guitar-diagram.svg" style=" margin-left: auto;margin-right: auto;width: 50%;display:block;">
 
+    - For example, you play the guitar, and you have an amp, well, the guitar is a source, and the amp is the destination.
 
-
-- But then you add a dist pedal, an eq, and a reverb pedal.
-- This chain of source audio plus FX that modify the sound is what is called a "node graph".
-- Each component is a **node.**
-- We start with a **source node (**a guitar, a saw wave, a sample), then we interpose a node (a fx, a process), and end with a  **destination node (**speakers, re-router, any type of output).
+    - But then you add a dist pedal, an eq, and a reverb pedal.
+    - This chain of source audio plus FX that modify the sound is what is called a "node graph".
+    - Each component is a **node.**
+    - We start with a **source node (**a guitar, a saw wave, a sample), then we interpose a node (a fx, a process), and end with a  **destination node (**speakers, re-router, any type of output).
     
+    
+
     
     
 <img src="./webaudioapi-diagram.svg" style=" margin-left: auto;margin-right: auto;width: 50%;display:block;">
@@ -111,25 +103,24 @@ Oscillators, by design, are only able to be started and stopped exactly once. Th
 
 ```
 
-# SUMMARY 0
+# Summary 0
 
-THE GENERALS FOR ALL THE COURSE
+🚧 ALL COURSE CODE
 
 As you could see, there are some characteristic of webaudio and internet music that we can start to organize , in order to make a more clear step learning focused into music and not into the generality of programming. 
 
-- music Technology and web music [WMUSIC]
-    - in this area we will focus on the specific method of audio [WEBAUDIO] and music technology including the apis of WebAudio, scores, and code paradigyms glue to musical thinking.
-    - For the specificities of each language and script we will use the tags [JS], [HTML], [CSS] and so on.
-- User Design , GUI and DOM [ITF]
+- music Technology and web music **[WMUSIC]**
+    - in this area we will focus on the specific method of audio **[WEBAUDIO]** and music technology including the apis of WebAudio, scores, and code paradigyms glue to musical thinking.
+    - For the specificities of each language and script we will use the tags **[JS], [HTML], [CSS]** and so on.
+- User Design , GUI and DOM **[ITF]**
     - here we will deal with both the interaction and the visualiztion or modal output of information.
     - Mostly is a local (first user) content.
-- Coding philosophy and Internet Music [FIM]
+
+- Coding philosophy and Internet Music **[FIM]**
     - here we will think of what it can be done with internet, and its more important components.
     - Also we will deal with the remoteness, and the data access posibilities.
 
 # 0.1 WebAudio [WMUSIC]
-
----
 
 There three type of audio nodes, 
 
@@ -264,11 +255,11 @@ var v = "Hi! I'm a strict mode script!";
 
 ### Local IDE and Cloud IDE.
 
-### looking for helps
+LOOKINF FOR HELP?
 
-[http://stackoverflow](http://stackoverflow/) .com is one of the biggest communities of programmers who ask and answer questions. 
+[http://stackoverflow.com](http://stackoverflow.com) is one of the biggest communities of programmers who ask and answer questions. 
 
-Go to http://stackoverflow.com/questions/tagged/web-audio  for audio related questions.
+go to [http://stackoverflow.com/questions/tagged/web-audio](http://stackoverflow.com/questions/tagged/web-audio)  for audio related questions.
 
 # 0.1 Javascript [JS]
 
