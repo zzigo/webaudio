@@ -21,18 +21,13 @@ so , Welcome to Web-audio at HEM.
 
 <img src="./webaudioapi-guitar-diagram.svg" style=" margin-left: auto;margin-right: auto;width: 50%;display:block;">
 
-    - For example, you play the guitar, and you have an amp, well, the guitar is a source, and the amp is the destination.
+- For example, you play the guitar, and you have an amp, well, the guitar is a source, and the amp is the destination.
+- But then you add a dist pedal, an eq, and a reverb pedal.
+- This chain of source audio plus FX that modify the sound is what is called a "node graph".
+- Each component is a **node.**
+- We start with a **source node (**a guitar, a saw wave, a sample), then we interpose a node (a fx, a process), and end with a  **destination node (**speakers, re-router, any type of output).
 
-    - But then you add a dist pedal, an eq, and a reverb pedal.
-    - This chain of source audio plus FX that modify the sound is what is called a "node graph".
-    - Each component is a **node.**
-    - We start with a **source node (**a guitar, a saw wave, a sample), then we interpose a node (a fx, a process), and end with a  **destination node (**speakers, re-router, any type of output).
-    
-    
-
-    
-    
-<img src="./webaudioapi-diagram.svg" style=" margin-left: auto;margin-right: auto;width: 50%;display:block;">
+ <img src="./webaudioapi-diagram.svg" style=" margin-left: auto;margin-right: auto;width: 50%;display:block;">
 
 
 
