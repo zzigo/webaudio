@@ -27,7 +27,7 @@ so , Welcome to Web-audio at HEM.
 
     - For example, you play the guitar, and you have an amp, well, the guitar is a source, and the amp is the destination.
 
-![Alt text](./Untitled Diagram.svg)
+
 <img src="./Untitled Diagram.svg">
 
     - But then you add a dist pedal, an eq, and a reverb pedal.
