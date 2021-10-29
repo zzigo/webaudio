@@ -105,11 +105,11 @@ gainNode.connect(context.destination);
 var playRandomOscillator = function(e){
 
 	oscillator = context.createOscillator();
-	oscillator.frequency.setTargetAtTime(Math.random()*500, context.currentTime, 0.0001);
+	oscillator.frequency.setTargetAtTime(Math.random()*500, context.currentTime, 0.001);
 
 	//06.03 The Method setTargetAtTime schedules the start of a gradual change to some value. The format is
 	// .setTargetAtTime(target,startTime,timeConstant);
-	// target in this case is the frequency value
+	// target in this case  the frequency value
 	// startTime is when the transition will begin
 	// time-constant value, given in seconds, of an exponential approach to the target value. The larger this value is, the slower the transition will be. 
 

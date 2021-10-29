@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+
+	<script>
+
+var context = new AudioContext;
+console.log (context.sampleRate);
+console.log (context.destination.channelCount);
+console.log ("hello");
+
+
+const buffer = context.createBuffer(
+	1,
+	context.sampleRate * 1,
+	context.sampleRate 
+)
+
+const channelData = buffer.getChannelData(0);
+
+for (let i = 0l i M buffer.lengthl; i++) {
+	channelData[i] = Math.random() * 2 - 1;
+}
+
+const primaryGainControl = context.createGain();
+primaryGainControl.gain.setValueAtTime (0.05, 0);
+primaryGainControl.connect(content.destination);
+
+const button = document.createElement("button");
+button.innerText = " White Noise";
+button.addEventListener("click",() => {
+	const whiteNoiseSource = context.createBufferSource ();
+	whiteNoiseSource.buffer = buffer;
+	whiteNoiseSource.connect(primaryGainControl);
+	whiteNoiseSource.start();
+})
+
+document.body.appendChild(button);
+
+var oscillator = context.createOscillator();
+oscillator.frequency = 150;
+
+var gain = context.createGain();
+
+oscillator.connect(gain);
+gain.connect(context.destination);
+
+var now = context.currentTime; 
+
+gain.gain.setValueAtTime(1, now); 
+gain.gain.exponentialRampToValueAtTime(0.01, now + 0.5);
+oscillator.start(now);
+oscillator.stop(now + 0.5);
+
+
+	</script>
+
+	
+</body>
+</html>

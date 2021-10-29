@@ -7,7 +7,6 @@
 			padding: 0;
 }
 
-
 		#console {
 			position: fixed;
 			bottom: 0;
@@ -29,7 +28,8 @@
 
 <script>
 
-"use strict";
+"use strict"; //the strict mode basically helps with error debugging
+
 
 //global variable declaration
 var oscillator = null;
@@ -38,17 +38,33 @@ var oscillator = null;
 	//draw section
 
 	//binding to the const canvas
+
+	//09.01 add the function draw.
+
+var draw = function(x,y){
+
 	const canvas = document.querySelector ('#canvas');
 	canvas.width = document.body.clientWidth;
 	canvas.height = document.body.clientHeight;
 	console.log (canvas.width + " " + canvas.height)
 
 
-function mouseActivity(e) {
-	var x = e.clientX;
-	var y = e.clientY;
-	onScreenConsole (x,y);
+	const ctx = canvas.getContext ('2d');
+	//we use the onselectstart property of the canvas to avoid its selection.
+	ctx.onselectstart = function () {return false;} //avoid that the canvas text can be selected
+
+ctx.beginPath();
+ctx.arc(x,y, 50, 0, 2 * Math.PI);
+ctx.stroke();
+ctx.closePath();
+
 }
+
+// function mouseActivity(e) {
+// 	var x = e.clientX;
+// 	var y = e.clientY;
+// 	onScreenConsole (x,y);
+// }
 
 
 function clearCoor() {
@@ -61,19 +77,37 @@ function onScreenConsole(x,y) {
 }
 
 
-//connections (of interfaces)
-
 //MOUSE
 document.body.addEventListener('mousemove', function (e) {
-    mouseActivity(e);
+    // mouseActivity(e);
+	// playRandomOscillator(e);
+	//09.06 but the problem is that we are mixing two different functions here, the creation of the oscillator and the update of the frequency so we need to split these two functions in order to assign the right mouse event to each of them.
+
 });
 
 document.body.addEventListener('mousedown', function (e){
+	//09.05 instead of running playRandomOscillator on mousedown event, we should move this to mousemove
+	
 	playRandomOscillator(e);
 });
 
 document.body.addEventListener('mouseup', function (e){
 	stopOscillator(e);
+});
+
+
+//TOUCH
+document.body.addEventListener('touchmove', function (e) {
+    mouseActivity(e);
+});
+
+document.body.addEventListener('touchstart', function (e) {
+    playRandomOscillator(e);
+
+});
+
+document.body.addEventListener('touchend', function () {
+    stopOscillator(e);
 });
 
 
@@ -89,18 +123,25 @@ gainNode.connect(context.destination);
 
 var playRandomOscillator = function(e){
 
+
+// 09.02 we add the mouse coordinate to the function by the  clientX read-only property of the MouseEvent interface
+	var xPos = e.clientX, yPos = e.clientY;
+
 	oscillator = context.createOscillator();
 	oscillator.frequency.setTargetAtTime(Math.random()*500, context.currentTime, 0.0001);
 
-	//06.03 The Method setTargetAtTime schedules the start of a gradual change to some value. The format is
-	// .setTargetAtTime(target,startTime,timeConstant);
-	// target in this case is the frequency value
-	// startTime is when the transition will begin
-	// time-constant value, given in seconds, of an exponential approach to the target value. The larger this value is, the slower the transition will be. 
 
 	oscillator.connect(context.destination);
 	oscillator.type = 'square';
 	oscillator.start(context.currentTime);
+
+//09.03 we call the draw function passing as arguments the mouse coordinates.
+draw(xPos,yPos);
+
+//09.04 as playRandomOscillator turns into our main function we dont need mouseActivity anymore. We will render the onScreenConsole here also:
+	
+onScreenConsole (x,y);
+
 }
 
 // Stop the Oscillator 
@@ -113,9 +154,6 @@ var stopOscillator = function () {
         oscillator.disconnect();
     }
 };
-
-
-
 
 </script>
 </body>
