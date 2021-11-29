@@ -107,7 +107,7 @@
         //calculate frequency
 
            var calculateFrequency = function (mouseXPosition) {
-             var minFrequency = 20, maxFrequency = 2000;
+             var minFrequency = 0, maxFrequency = 200;
              pitch =  ((mouseXPosition / window.innerWidth) * maxFrequency ) + minFrequency;
              return pitch ;
            };
@@ -120,23 +120,6 @@
 
                 return 1 - ((mouseYPosition / window.innerHeight) * maxGain) + minGain;
             };
-
-
-
-           
-        //1. detecting the mouse
-        
-      //   document.addEventListener("mousemove",() => {
-
-      //         //mouse position
-      //         mousex = event.clientX; // get mouse x
-      //         mousey = event.clientY; // get mouse y
-
-      //         draw();
-      //     //    createOscillators();
-      //         onScreenConsole();
-              
-      //  });
 
 
 
@@ -287,10 +270,9 @@ var changeFrequency = function (e) {
          gainNode.gain.setTargetAtTime(calculateGain(yPos), context.currentTime, 0.001);
 
         
-		//play
     draw(xPos,yPos);
     onScreenConsole(xPos,yPos);
-    // drawPitch(toNote(pitch));
+    drawPitch(toNote(pitch));
     }
 };
 
@@ -394,6 +376,7 @@ function iOstext() {
  let platform = iOS();
  if(platform) {return " IPHONE"} else {return " BROWSER"};
 }
+
 	</script>
 
 </body>
