@@ -6,7 +6,6 @@
 
 * [tools](init/tools.md)
 * [coding basics](init/coding-basics.md)
-* [the browser](init/the-browser.md)
 
 ## WEBAUDIO
 
@@ -24,3 +23,9 @@
 ## P5
 
 * [Page 2](p5/page-2.md)
+
+## TOOLS
+
+* [the browser](tools/the-browser.md)
+* [repl.it](tools/repl.it.md)
+* [Page 3](tools/page-3.md)
