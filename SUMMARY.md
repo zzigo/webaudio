@@ -10,14 +10,14 @@
 
 ***
 
-* [editors](editors.md)
 * [HTML, CSS & JS](html-css-and-js.md)
+* [editors](editors.md)
+* [introduction to GUI](introduction-to-gui.md)
 
 ## WEBAUDIO
 
 * [fundamentals](fundamentals.md)
-* [webaudio initialization](webaudio/webaudio-initialization/README.md)
-  * [Page 11](webaudio/webaudio-initialization/page-11.md)
+* [webaudio initialization](webaudio-initialization.md)
 
 ## TONEJS
 
@@ -32,8 +32,8 @@
 
 ## SCHEDULING
 
-* [Page 6](scheduling/page-6/README.md)
-  * [Page 9](scheduling/page-6/page-9.md)
+* [Page 9](scheduling/page-9.md)
+* [Page 6](scheduling/page-6.md)
 
 ## SCORES & REPRESENTATION
 
@@ -50,6 +50,7 @@
 ## HTML
 
 * [html alphabetic order](html/html-alphabetic-order.md)
+* [canvas](html/canvas.md)
 
 ## CSS
 
@@ -61,3 +62,4 @@
 * [js-variables](javascript/js-variables.md)
 * [js-properties](javascript/js-properties.md)
 * [js-methods](javascript/js-methods.md)
+* [js-DOM](javascript/js-dom.md)
