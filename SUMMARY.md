@@ -10,15 +10,23 @@
 
 ***
 
-* [webaudio initialization](webaudio-initialization.md)
-* [fundamentals](fundamentals.md)
+* [Page 6](page-6.md)
+
+## WEBAUDIO
+
+* [fundamentals](webaudio/fundamentals.md)
+* [webaudio initialization](webaudio/webaudio-initialization.md)
+* [Page 8](webaudio/page-8.md)
 
 ## TONEJS
 
+* [Page 5](tonejs/page-5.md)
 * [Page 1](tonejs/page-1.md)
+* [Page 4](tonejs/page-4.md)
 
 ## P5
 
+* [Page 7](p5/page-7.md)
 * [Page 2](p5/page-2.md)
 
 ## TOOLS
