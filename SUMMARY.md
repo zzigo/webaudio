@@ -73,3 +73,6 @@
 
 * [Introduction](internet-music/introduction.md)
 * [Net-Art](internet-music/net-art.md)
+* [The four pillars of Internet Music](internet-music/the-four-pillars-of-internet-music.md)
+* [IM: a case of Generative Music](internet-music/im-a-case-of-generative-music.md)
+* [Destination: Living in a pre tangible internet era.](internet-music/destination-living-in-a-pre-tangible-internet-era..md)

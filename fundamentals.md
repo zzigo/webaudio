@@ -11,7 +11,7 @@
 
 
 
-![a typical audio-node connection](.gitbook/assets/image.png)
+![a typical audio-node connection](<.gitbook/assets/image (2).png>)
 
 * But then you add a dist pedal, an eq, and a reverb pedal.
 * This chain of source audio plus FX that modifies the sound is what is called a "node graph".
