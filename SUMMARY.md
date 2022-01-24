@@ -28,6 +28,5 @@
 ## TOOLS
 
 * [Glossary](tools/glossary.md)
-* [the browser](tools/the-browser.md)
-* [repl.it](tools/repl.it.md)
+* [IDEs](tools/ides.md)
 * [Page 3](tools/page-3.md)

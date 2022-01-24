@@ -46,3 +46,14 @@ are used in UI Pages for HTML tags
 </body>
 </html>
 ```
+
+{% hint style="success" %}
+**TRY THIS>**
+
+A first secret to enter into code is to practice the location of all these special character on your keyboard as if you were playing a Bach fugue!\
+\
+{}{}{}\[] <><><>"" "" {} ({}{}) <> <> ( \[ { } ] ) ;\
+{ ( ) } { ( \[ ] ) } ;\
+" ' { ( ) } ' ";
+{% endhint %}
+
