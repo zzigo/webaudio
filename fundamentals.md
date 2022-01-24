@@ -9,13 +9,15 @@
 
     * For example, you play the guitar, and you have an amp, well, the guitar is a source, and the amp is the destination.
 
-    [https://kroki.io/blockdiag/svg/eNpLyUxML0rMVUhMyc3MU6jm4lJQSC\_KLy1QSC\_NLEksAoooAAGUE52TmJSao2CroOQe6hniGKQUaw2WTsksLkGSdPEMDvEPCvH091MIcHVx9IErSy0uycxLLMnMz0NS7egbAFFQC7YcYpOuHbqhSZl5KRB1YAmQAoRxXLVcANTyO\_A=](https://kroki.io/blockdiag/svg/eNpLyUxML0rMVUhMyc3MU6jm4lJQSC\_KLy1QSC\_NLEksAoooAAGUE52TmJSao2CroOQe6hniGKQUaw2WTsksLkGSdPEMDvEPCvH091MIcHVx9IErSy0uycxLLMnMz0NS7egbAFFQC7YcYpOuHbqhSZl5KRB1YAmQAoRxXLVcANTyO\_A=)
 
-    * But then you add a dist pedal, an eq, and a reverb pedal.
-    * This chain of source audio plus FX that modifies the sound is what is called a "node graph".
-    * Each component is a **node.**
-    * We start with a \*\*source node (\*\*a guitar, a saw wave, a sample), then we interpose a node (an fx, a process), and end with a \*\*destination node (\*\*speakers, re-router, any type of output).
-    * It’s not considered §good practice to have more than one audio context in a single project.
+
+![a typical audio-node connection](.gitbook/assets/image.png)
+
+* But then you add a dist pedal, an eq, and a reverb pedal.
+* This chain of source audio plus FX that modifies the sound is what is called a "node graph".
+* Each component is a **node.**
+* We start with a \*\*source node (\*\*a guitar, a saw wave, a sample), then we interpose a node (an fx, a process), and end with a \*\*destination node (\*\*speakers, re-router, any type of output).
+* It’s not considered §good practice to have more than one audio context in a single project.
 
 ### Audio Context
 

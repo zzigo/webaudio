@@ -14,8 +14,8 @@
 
 ## WEBAUDIO
 
-* [fundamentals](webaudio/fundamentals.md)
-* [webaudio initialization](webaudio/webaudio-initialization.md)
+* [fundamentals](fundamentals.md)
+* [webaudio initialization](webaudio-initialization.md)
 * [Page 8](webaudio/page-8.md)
 
 ## TONEJS
