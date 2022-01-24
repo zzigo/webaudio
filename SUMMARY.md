@@ -42,7 +42,7 @@
 * [generative visuals](p5/generative-visuals.md)
 * [loops](p5/loops.md)
 
-## SCORES & REPRESENTATION
+## SCORES
 
 ***
 
