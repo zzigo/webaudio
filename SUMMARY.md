@@ -71,13 +71,15 @@
 
 ## JAVASCRIPT
 
+* [js-DOM](javascript/js-dom.md)
 * [js-console interaction](javascript/js-console-interaction.md)
 * [js-fundamentals](javascript/js-fundamentals.md)
 * [js-variables](javascript/js-variables.md)
 * [js-operators](javascript/js-operators.md)
 * [js-properties](javascript/js-properties.md)
 * [js-methods](javascript/js-methods.md)
-* [js-DOM](javascript/js-dom.md)
+* [js-functions](javascript/js-functions.md)
+* [js-hoisting](javascript/js-hoisting.md)
 
 ## ▪ INTERNET MUSIC
 
