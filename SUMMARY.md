@@ -1,7 +1,7 @@
 # Table of contents
 
 * [▪ Welcome to WA-HEM](README.md)
-* [gallery](<README (1).md>)
+  * [gallery](welcome-to-wa-hem/gallery.md)
 
 ## INIT
 
@@ -13,18 +13,19 @@
 
 ## WEBAUDIO
 
-* [fundamentals](fundamentals.md)
 * [webaudio initialization](webaudio-initialization.md)
 * [generators](webaudio/generators.md)
 * [buffers](webaudio/buffers.md)
 * [audio params](webaudio/audio-params.md)
 * [modular mono synth](webaudio/modular-mono-synth.md)
+* [fundamentals](fundamentals.md)
 
 ## INTERFACES
 
+* [On-Screen console](interfaces/on-screen-console.md)
 * [buttons](interfaces/buttons.md)
-* [keyboard](interfaces/keyboard.md)
 * [mouse](interfaces/mouse.md)
+* [keyboard](interfaces/keyboard.md)
 * [textfield](interfaces/textfield.md)
 * [sensors](interfaces/sensors.md)
 
@@ -44,9 +45,7 @@
 
 ## SCORES
 
-***
-
-* [dynamic scores: collider](dynamic-scores-collider.md)
+* [dynamic scores: collider](scores/dynamic-scores-collider.md)
 
 ## WEBGL
 

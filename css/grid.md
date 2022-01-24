@@ -19,3 +19,11 @@ gutter - space between rows and columns
 grid container - The container that holds the entire CSS grid. It will be the element that has thedisplay: grid or display: inline-grid property on it.
 
 grid element - Any element that is a direct child of a grid container.
+
+
+
+### A case of use
+
+{% embed url="https://replit.com/@jsmusic/grid01#index.html" %}
+\#grid #webaudio
+{% endembed %}
