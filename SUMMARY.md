@@ -5,12 +5,12 @@
 
 ## INIT
 
-* [tools](init/tools.md)
-* [coding basics](init/coding-basics.md)
+* [the browser](init/the-browser.md)
+* [special characters](init/special-characters.md)
 
 ***
 
-* [Page 6](page-6.md)
+* [editors](editors.md)
 
 ## WEBAUDIO
 
@@ -34,3 +34,7 @@
 * [Glossary](tools/glossary.md)
 * [IDEs](tools/ides.md)
 * [Page 3](tools/page-3.md)
+
+## HTML
+
+* [Page 9](html/page-9.md)
