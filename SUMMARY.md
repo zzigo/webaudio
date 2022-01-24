@@ -41,6 +41,10 @@
 
 ## SCORES & REPRESENTATION
 
+***
+
+* [dynamic scores: collider](dynamic-scores-collider.md)
+
 ## TOOLS
 
 * [Glossary](tools/glossary.md)
@@ -61,6 +65,7 @@
 
 ## JAVASCRIPT
 
+* [js-console interaction](javascript/js-console-interaction.md)
 * [js-fundamentals](javascript/js-fundamentals.md)
 * [js-variables](javascript/js-variables.md)
 * [js-operators](javascript/js-operators.md)
