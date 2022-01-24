@@ -4,7 +4,11 @@ Due to the nature of this course, we will not go through each of these languages
 
 Nevertheless, pay attention to this basic information, the concepts developed during the modules, and the integrations groups at the end of this book.
 
-### What is what? 
+#### What is what?
+
+#### &#x20;HTML
+
+Is the system of tags originally created by Berners-Lee in 1991.  From the philosophical view, is a declarative language
 
 ### Basic structure
 
