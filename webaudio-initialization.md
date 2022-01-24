@@ -10,4 +10,6 @@ oscillator.start(context.currentTime); //start the WA thread
 
 ```
 
-[https://codepen.io/LucianoAzzigotti/pen/vYZeENd?editors=0012](https://codepen.io/LucianoAzzigotti/pen/vYZeENd?editors=0012)
+{% embed url="https://codepen.io/LucianoAzzigotti/pen/vYZeENd?editors=0012" %}
+webaudio tes-tone
+{% endembed %}
