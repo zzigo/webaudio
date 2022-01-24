@@ -32,7 +32,7 @@ is based entirely on different spacings and transpositions of selected pitches (
 
 For two or more ultra-stable, precisely-tuned sine-wave drones. The recorded version offers a whole range of psychoacoustical effects to the armchair listener. In time, however, the pitches will 'drift' slightly, despite the accuracy of the equipment. Among other things this causes the volume of each pitch to drift as well. Between September 1966 and January 1970 Young had turned his house into a continuous sound environment. He consequently studied the effects in great detail.
 
-[https://www.youtube.com/watch?v=5e8QKh3LOQY\&t=233s](https://www.youtube.com/watch?v=5e8QKh3LOQY\&t=233s)
+{% embed url="https://www.youtube.com/watch?t=233s&v=5e8QKh3LOQY" %}
 
 #### Alvin Lucier, Crossing, (1982)
 
@@ -40,9 +40,9 @@ For two or more ultra-stable, precisely-tuned sine-wave drones. The recorded ver
 
 Crossings(1982), for small orchestra, with slow sweep pure wave oscillator, page 1 of the manuscript score. The diagonal line represents a slowly ascending sine wave sweeping from C at 32.7 cycles per second to F-sharp at 92.5 cycles per second. Whole notes straddling the diagonal denote long tones played by various instruments. Those on the left and right of the diagonal denote the left and right sides of the loudspeaker from which the rising wave flows. Numbers to the left and right of the diagonal are cues in cycles per second for the players to begin and end their sustained tones.
 
-[https://www.youtube.com/watch?v=JHkoZqmfwjI](https://www.youtube.com/watch?v=JHkoZqmfwjI)
+{% embed url="https://www.youtube.com/watch?v=JHkoZqmfwjI" %}
 
 James Saundesrs, Eight Panels, (2012)
 
-[https://www.youtube.com/watch?v=xGod9Pliq7o](https://www.youtube.com/watch?v=xGod9Pliq7o)
+{% embed url="https://www.youtube.com/watch?v=xGod9Pliq7o" %}
 
