@@ -8,8 +8,7 @@ Nevertheless, pay attention to this basic information, the concepts developed du
 
 &#x20;While HTML defines the **structure** of web content, CSS  describes a web page's **appearance** and JS its **functionality** or behavior.
 
-\
-HTML
+### &#x20;HTML
 
 HTML stands for the hypertext markup language, is the standard by which we create documents for the WWW, originally created by Berners-Lee in 1991.  From the philosophical view, is a declarative language (describing what you want to do but not how you do it). In essence, HTML organizes a series of **elements.** When you load a webpage there is a first element that transforms all the rest elements into **objects.** This meta-object (or interface) is called DOM (Document Object Model) and defines the **properties**, **methods,** and **events** of all HTML elements.
 
@@ -102,7 +101,7 @@ In a very loose comparison, JS and CSS could be related to the Orchestration or 
 {% hint style="success" %}
 **Try this!**\
 ****\
-****1. Open the Browser's console (see shortcuts in \[\[the browser]])\
+****1. Open the Browser's console (see shortcuts in [the browser](the-browser.md))\
 2\. Make a simple sum of two variables and print it again on the console.\
 \
 \---\
@@ -115,8 +114,4 @@ Solution:\
 {% endhint %}
 
 
-
-{% hint style="success" %}
-
-{% endhint %}
 
