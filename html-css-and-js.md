@@ -59,9 +59,33 @@ JS block -> /\*&#x20;
 
 ### CSS
 
-Is the acronymous for "Cascade Style Sheet" Basically is set of rules describing how HTML elements are displayed on some graphic destination (screen, paper, or other media).
+Is the acronymous for "Cascade Style Sheet" Basically is a set of rules describing how HTML elements are displayed on some graphic destination (screen, paper, or other media).
 
+For example, let's say you want to assign the color red to a phrase enclosed on the tags \<p>\</p> in the HTML section:
 
+```
+<html>
+    <head>
+        <style>
+            p { color: red; }
+        </style>
+    </head>
+    <body>
+        <p> this is a red colored phrase </p>
+    </body>
+</html>
+```
+
+The entire structure of CSS rule is called **ruleset** having very important individual parts:
+
+![Anatomy of a CSS ruleset \[Mozilla Foundation\]](https://developer.mozilla.org/en-US/docs/Learn/Getting\_started\_with\_the\_web/CSS\_basics/css-declaration-small.png)
+
+{% hint style="success" %}
+**Try this!**\
+****1. go to repl.it, create a new HTML code.
+
+2\. Insert the code above and change the color of the paragraph \<p>. You can try change _`red` _ for, _`orange`_ , _`white`_, _`green`_, or values in rgb as `rbg (244,120,30)`
+{% endhint %}
 
 ### JS
 
@@ -75,5 +99,24 @@ Is the acronymous for "Cascade Style Sheet" Basically is set of rules describing
 In a very loose comparison, JS and CSS could be related to the Orchestration or Material Disposition of a Musical Score, or Csound patch, meanwhile HTML is the time and content organization presented in the Score.
 {% endhint %}
 
+{% hint style="success" %}
+**Try this!**\
+****\
+****1. Open the Browser's console (see shortcuts in \[\[the browser]])\
+2\. Make a simple sum of two variables and print it again on the console.\
+\
+\---\
+Solution:\
+\
+`var a = 2;`\
+`var b = 3;`\
+`console.log (a + b)`\
+``
+{% endhint %}
 
+
+
+{% hint style="success" %}
+
+{% endhint %}
 
