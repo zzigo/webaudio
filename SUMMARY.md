@@ -18,44 +18,50 @@
 
 * [fundamentals](fundamentals.md)
 * [webaudio initialization](webaudio-initialization.md)
+* [generators](webaudio/generators.md)
+* [audio params](webaudio/audio-params.md)
 
-## TONEJS
+## INTERFACES
 
-* [Page 5](tonejs/page-5.md)
-* [Page 1](tonejs/page-1.md)
-* [Page 4](tonejs/page-4.md)
-
-## P5
-
-* [Page 7](p5/page-7.md)
-* [Page 2](p5/page-2.md)
+* [buttons](interfaces/buttons.md)
+* [keyboard](interfaces/keyboard.md)
+* [mouse](interfaces/mouse.md)
+* [textfield](interfaces/textfield.md)
 
 ## SCHEDULING
 
 * [Page 9](scheduling/page-9.md)
-* [Page 6](scheduling/page-6.md)
+
+## TONEJS
+
+* [Page 5](tonejs/page-5.md)
+
+## P5
+
+* [Page 7](p5/page-7.md)
 
 ## SCORES & REPRESENTATION
-
-## NETWORKING
-
-* [Page 10](networking/page-10.md)
 
 ## TOOLS
 
 * [Glossary](tools/glossary.md)
 * [IDEs](tools/ides.md)
-* [How to create a github page](tools/how-to-create-a-github-page.md)
+* [How to create a github repository](tools/how-to-create-a-github-repository.md)
 
 ## HTML
 
 * [html alphabetic order](html/html-alphabetic-order.md)
 * [canvas](html/canvas.md)
 
+## CSS
+
+* [Page 1](css/page-1.md)
+
 ## JAVASCRIPT
 
 * [js-fundamentals](javascript/js-fundamentals.md)
 * [js-variables](javascript/js-variables.md)
+* [js-operators](javascript/js-operators.md)
 * [js-properties](javascript/js-properties.md)
 * [js-methods](javascript/js-methods.md)
 * [js-DOM](javascript/js-dom.md)
