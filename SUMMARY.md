@@ -1,7 +1,7 @@
 # Table of contents
 
-* [gallery](README.md)
-* [Welcome to WA-HEM](<README (1).md>)
+* [Welcome to WA-HEM](README.md)
+* [gallery](<README (1).md>)
 
 ## INIT
 
