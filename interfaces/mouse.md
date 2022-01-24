@@ -28,3 +28,28 @@ In this case, the mouse coordinates are no longer limited to the canvas area but
 This is useful for [Theremin](../welcome-to-wa-hem/gallery.md) app,  since is dealing with the fullscreen type defined by CSS as we will see in the next step.
 
 {% embed url="https://replit.com/@jsmusic/mouse03#index.html" %}
+
+### Controlling sound with mouse
+
+The creation of the **Oscillator** depends on the activity of the mouse. This can be ordered into a programming flowchart answering always these 2 questions:&#x20;
+
+****\
+**1. What I want the user do?,**&#x20;
+
+**2. What happens with that action?**&#x20;
+
+Almost always this is the order that structures the folding and dependencies between events and functions. In this case:&#x20;
+
+1\. When the mouse is pressed-down, trigger `playRandomOscillator()`
+
+The Method `setTargetAtTime` schedules the start of a gradual change to some value.&#x20;
+
+The format is  `.setTargetAtTime(target,startTime,timeConstant);`&#x20;
+
+`target` in this case is the frequency value&#x20;
+
+`startTime` is when the transition begins
+
+`timeConstant` value, given in seconds, of an exponential approach to the target value. The larger this value is, the slower the transition will be.
+
+{% embed url="https://replit.com/@jsmusic/mousesound04#index.html" %}
