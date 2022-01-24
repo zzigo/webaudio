@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to WA-HEM](README.md)
+* [▪ Welcome to WA-HEM](README.md)
 * [gallery](<README (1).md>)
 
 ## INIT
@@ -68,3 +68,8 @@
 * [js-properties](javascript/js-properties.md)
 * [js-methods](javascript/js-methods.md)
 * [js-DOM](javascript/js-dom.md)
+
+## ▪ INTERNET MUSIC
+
+* [Introduction](internet-music/introduction.md)
+* [Net-Art](internet-music/net-art.md)
