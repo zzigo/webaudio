@@ -16,8 +16,8 @@
 ## WEBAUDIO
 
 * [fundamentals](fundamentals.md)
-* [webaudio initialization](webaudio-initialization.md)
-* [Page 8](webaudio/page-8.md)
+* [webaudio initialization](webaudio/webaudio-initialization/README.md)
+  * [Page 11](webaudio/webaudio-initialization/page-11.md)
 
 ## TONEJS
 
@@ -30,6 +30,17 @@
 * [Page 7](p5/page-7.md)
 * [Page 2](p5/page-2.md)
 
+## SCHEDULING
+
+* [Page 6](scheduling/page-6/README.md)
+  * [Page 9](scheduling/page-6/page-9.md)
+
+## SCORES & REPRESENTATION
+
+## NETWORKING
+
+* [Page 10](networking/page-10.md)
+
 ## TOOLS
 
 * [Glossary](tools/glossary.md)
@@ -39,3 +50,14 @@
 ## HTML
 
 * [html alphabetic order](html/html-alphabetic-order.md)
+
+## CSS
+
+* [Page 8](css/page-8.md)
+
+## JAVASCRIPT
+
+* [js-fundamentals](javascript/js-fundamentals.md)
+* [js-variables](javascript/js-variables.md)
+* [js-properties](javascript/js-properties.md)
+* [js-methods](javascript/js-methods.md)
