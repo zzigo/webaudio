@@ -7,11 +7,12 @@ description: all codes examples we explained during the wa-classes
 ### 0.1 A simple theremin
 
 {% embed url="https://replit.com/@jsmusic/wa-00-theremin#index.html" %}
-\#mouse #SinusoidGen #webaudioapi #canvas
+\#mouse #SinusoidGen #webaudioapi #canvas #touch #interfaces #fullscreen
 {% endembed %}
 
 ### 1.1 A simple Keyboard (controlled by keyboard)
 
 {% embed url="https://replit.com/@jsmusic/keyboard#index.html" %}
-\#interface #keyboard #SinusoidGen #webaudioapi
+\#interfaces  #keyboard #SinusoidGen #webaudioapi #arrays
 {% endembed %}
+

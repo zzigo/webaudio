@@ -5,7 +5,7 @@ coverY: 0
 description: fundamentals before enter into coding
 ---
 
-# coding basics
+# special characters
 
 {% hint style="info" %}
 computer code is full of acronyms. To access to a full list of them go to the \[Glossary]. \
@@ -48,7 +48,7 @@ are used in UI Pages for HTML tags
 ```
 
 {% hint style="success" %}
-**TRY THIS>**
+### **Try this!**
 
 A first secret to enter into code is to practice the location of all these special character on your keyboard as if you were playing a Bach fugue!\
 \
