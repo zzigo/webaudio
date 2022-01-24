@@ -16,6 +16,10 @@ description: all codes examples we explained during the wa-classes
 \#interfaces  #keyboard #SinusoidGen #webaudioapi #arrays
 {% endembed %}
 
+### 3.1 Modular mono synth in WebAudio
+
+{% embed url="https://replit.com/@jsmusic/modularsynth01#index.html" %}
+
 ### 5.1 A synth in tone.js
 
 {% embed url="https://replit.com/@jsmusic/synth01#index.html" %}

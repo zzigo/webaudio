@@ -18,6 +18,7 @@
 * [generators](webaudio/generators.md)
 * [buffers](webaudio/buffers.md)
 * [audio params](webaudio/audio-params.md)
+* [modular mono synth](webaudio/modular-mono-synth.md)
 
 ## INTERFACES
 
@@ -46,6 +47,10 @@
 ***
 
 * [dynamic scores: collider](dynamic-scores-collider.md)
+
+## WEBGL
+
+* [eyetarget](webgl/eyetarget.md)
 
 ## TOOLS
 
