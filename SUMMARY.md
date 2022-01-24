@@ -33,11 +33,13 @@
 
 ## TONEJS
 
-* [Page 5](tonejs/page-5.md)
+* [tonejs fundamentals](tonejs/tonejs-fundamentals.md)
+* [A synth app](tonejs/a-synth-app.md)
 
 ## P5
 
-* [Page 7](p5/page-7.md)
+* [generative visuals](p5/generative-visuals.md)
+* [loops](p5/loops.md)
 
 ## SCORES & REPRESENTATION
 

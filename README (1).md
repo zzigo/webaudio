@@ -16,3 +16,9 @@ description: all codes examples we explained during the wa-classes
 \#interfaces  #keyboard #SinusoidGen #webaudioapi #arrays
 {% endembed %}
 
+### 5.1 A synth in tone.js
+
+{% embed url="https://replit.com/@jsmusic/synth01#index.html" %}
+\#flex #tone.js #scheduling #fx #melody
+{% endembed %}
+
