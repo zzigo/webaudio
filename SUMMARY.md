@@ -7,18 +7,16 @@
 
 * [the browser](init/the-browser.md)
 * [special characters](init/special-characters.md)
-
-***
-
-* [HTML, CSS & JS](html-css-and-js.md)
-* [editors](editors.md)
-* [introduction to GUI](introduction-to-gui.md)
+* [HTML, CSS & JS](init/html-css-and-js.md)
+* [editors](init/editors.md)
+* [introduction to GUI](init/introduction-to-gui.md)
 
 ## WEBAUDIO
 
 * [fundamentals](fundamentals.md)
 * [webaudio initialization](webaudio-initialization.md)
 * [generators](webaudio/generators.md)
+* [buffers](webaudio/buffers.md)
 * [audio params](webaudio/audio-params.md)
 
 ## INTERFACES
@@ -27,6 +25,7 @@
 * [keyboard](interfaces/keyboard.md)
 * [mouse](interfaces/mouse.md)
 * [textfield](interfaces/textfield.md)
+* [sensors](interfaces/sensors.md)
 
 ## SCHEDULING
 
