@@ -47,8 +47,6 @@ Over the years, only three engines survived: WebKit (Apple, Safari), Blink (Goog
 
 Chromium is the codebase for Chrome and others, is based on  Blink and V8 (the js renderer, also used in node.js and Electron app creator framework).
 
-
-
 {% hint style="info" %}
 IMPORTANT!, all techonologies related to WebAudio API works better on **Chrome**. \
 To check if a technology is implemented on a browser you can check it at [https://caniuse.com/](https://caniuse.com)
@@ -58,18 +56,37 @@ To check if a technology is implemented on a browser you can check it at [https:
 
 #### Chrome and Chromium based (brave, vivaldi, edge, opera)
 
-⌘⌥ + J //  open the console
-
-⌘ + K // erase the console
-
-⌘⇧ + M // switch to mobile preview view
-
-⌘⇧ + C // inspect CSS and HTML elements on the preview
-
-
+| shortcut | function                                      |
+| -------- | --------------------------------------------- |
+| ⌘⌥ + J   | open the console                              |
+| ⌘ + K    |  erase the console                            |
+| ⌘⇧ + M   |  switch to mobile preview view                |
+| ⌘⇧ + C   |  inspect CSS and HTML elements on the preview |
 
 #### Firefox (quantum gecko based)
 
-⌘⌥ + K //  open the console
+| shortcut | function                                      |
+| -------- | --------------------------------------------- |
+| ⌘⌥ + K   | open the console                              |
+| ⌥ + O /  |  erase the console                            |
+| ⌘⌥ + M   |  switch to mobile preview view                |
+| ⌘⌥ + C   |  inspect CSS and HTML elements on the preview |
 
-⌥ + O // erase Console
+{% hint style="success" %}
+### **Try this!**&#x20;
+
+\
+`1. go to your browser`
+
+`2. load a page or` type about:blank  into the address `bar`
+
+`3. open the console with the shortcuts explained above`
+
+`4. type console.log ("helloworld")+ enter and see the results.` \
+``\
+``
+{% endhint %}
+
+
+
+*
