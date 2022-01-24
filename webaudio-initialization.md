@@ -13,3 +13,10 @@ oscillator.start(context.currentTime); //start the WA thread
 {% embed url="https://codepen.io/LucianoAzzigotti/pen/vYZeENd?editors=0012" %}
 webaudio tes-tone
 {% endembed %}
+
+{% hint style="success" %}
+**Try this!**\
+****\
+****1. Fork this repl.it into your own and try to change the frequency and the generator type.
+{% endhint %}
+
