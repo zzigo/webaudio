@@ -29,7 +29,7 @@
 
 ## SCHEDULING
 
-* [Page 9](scheduling/page-9.md)
+* [Tide](scheduling/tide.md)
 
 ## TONEJS
 
