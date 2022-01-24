@@ -45,16 +45,12 @@
 
 * [Glossary](tools/glossary.md)
 * [IDEs](tools/ides.md)
-* [Page 3](tools/page-3.md)
+* [How to create a github page](tools/how-to-create-a-github-page.md)
 
 ## HTML
 
 * [html alphabetic order](html/html-alphabetic-order.md)
 * [canvas](html/canvas.md)
-
-## CSS
-
-* [Page 8](css/page-8.md)
 
 ## JAVASCRIPT
 
