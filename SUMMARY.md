@@ -55,7 +55,10 @@
 
 ## CSS
 
-* [Page 1](css/page-1.md)
+* [Viewport](css/viewport.md)
+* [Media queries](css/media-queries.md)
+* [Grid](css/grid.md)
+* [Flexbox](css/flexbox.md)
 
 ## JAVASCRIPT
 
