@@ -15,5 +15,5 @@ And then accesing to any property of the given element, in this case, the one ca
 {% hint style="success" %}
 Try this!\
 \
-1\. Fork this replit and&#x20;
+1\. Fork this replit and try to prompt and answer other data through the console.
 {% endhint %}

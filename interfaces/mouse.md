@@ -8,6 +8,8 @@ We are using the element canvas. Canvas is used to draw graphics on a web page v
 To catch the mouse activity we are using an **HTML DOM event** called _**onclick**_, but the problem is that there is no continuous information and we only know the mouse position on the click event.
 
 {% embed url="https://replit.com/@jsmusic/mouse01#index.html" %}
+remember to press click to get the coordinates
+{% endembed %}
 
 ### Dynamic mouse position
 
@@ -17,7 +19,7 @@ Just to experiment we added another HTML DOM EVENT called _**onmouseout**_ that 
 
 {% embed url="https://replit.com/@jsmusic/mouse02#index.html" %}
 
-### Mouse position on full window
+### Mouse position with _addEventListener_ method
 
 We have another option to control the mouse activity through the **document** object. Due the [Hoisting](../javascript/js-hoisting.md) we don't need to put the function prior to the others.&#x20;
 
