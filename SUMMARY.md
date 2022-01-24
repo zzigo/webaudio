@@ -8,14 +8,10 @@
 * [tools](init/tools.md)
 * [coding basics](init/coding-basics.md)
 
-## WEBAUDIO
-
-* [Requesting Time Off](webaudio/requesting-time-off.md)
-* [Filing Expenses](webaudio/filing-expenses.md)
-
 ***
 
-* [adding wa](adding-wa.md)
+* [webaudio initialization](webaudio-initialization.md)
+* [fundamentals](fundamentals.md)
 
 ## TONEJS
 
