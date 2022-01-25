@@ -40,7 +40,7 @@ addEventListener(type, function);
 
 8\. Inside the addEventListener triggered function the WA code is hosted.&#x20;
 
-9\. Finally we set a list of generators: sine oscillator, square oscillator, a whitenoise buffer being played in two instances, and a bassdrum emulator made of a freq-ramp-oscillator.
+9\. Finally we set a list of generators: sine oscillator, square oscillator, a white noise buffer being played in two instances, and a bass drum emulator made of a freq-ramp-oscillator. For a detailed description of each generator go to the next section.
 
 {% embed url="https://replit.com/@jsmusic/generators01#index.html" %}
 

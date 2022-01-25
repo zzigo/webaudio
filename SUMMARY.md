@@ -16,8 +16,9 @@
 * [fundamentals](fundamentals.md)
 * [webaudio initialization](webaudio-initialization.md)
 * [generators](webaudio/generators.md)
+* [Lowis-Misuary BD](webaudio/lowis-misuary-bd.md)
 * [buffers](webaudio/buffers.md)
-* [audio params](webaudio/audio-params.md)
+* [AudioParams](webaudio/audioparams.md)
 * [modular mono synth](webaudio/modular-mono-synth.md)
 
 ## INTERFACES
