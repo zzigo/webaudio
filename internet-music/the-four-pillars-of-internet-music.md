@@ -33,12 +33,12 @@
 1. Morphology and content can depend on networking activity
    1. remoticity
    2. collective performance & audience participation
-   3. [data art](https://www.notion.so/data-art-919da89be389410ebacd05036120f4e7)
+   3. data art
    4. chat-bots
    5. interactive soundscape
-   6. livecoding and freeimpro environments
+   6. live coding and free-impro environments
 2. Allows cognitive and distribute performances.
-3. It can produce exo instruments incorporating any type of js devices.
+3. It can produce exo-instruments incorporating any type of js devices.
 
 </details>
 

@@ -45,3 +45,6 @@ solution:
 
 {% embed url="https://codepen.io/LucianoAzzigotti/pen/vYWYOzV" %}
 
+{% hint style="info" %}
+to know more about the For...Next method used here go to[ js-loops](../javascript/js-loops.md)
+{% endhint %}

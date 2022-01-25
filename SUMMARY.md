@@ -79,6 +79,7 @@
 * [js-properties](javascript/js-properties.md)
 * [js-methods](javascript/js-methods.md)
 * [js-functions](javascript/js-functions.md)
+* [js-loops](javascript/js-loops.md)
 * [js-hoisting](javascript/js-hoisting.md)
 
 ## ▪ INTERNET MUSIC
