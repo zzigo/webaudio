@@ -22,19 +22,21 @@ The ephemeral nature of software, the distinction between system conception and 
 
 ## Spatial and Procedural early examples
 
-#### La Monte Young, Trio for Strings (1958)
+### La Monte Young, Trio for Strings (1958)
 
 ![Trio for Strings (1958), La Monte Young](../.gitbook/assets/image.png)
 
-is based entirely on different spacings and transpositions of selected pitches (usually three at any one time) from the 'dream chord'. The opening is given in Example 1. “ My timings are approximate since they are taken down from a recording, but the overlapping of notes in time seems to be carefully structured throughout the work as does the order of pitches (which is related to twelve-note procedures). But these are incidental aspects. What is more noticeable is that the 48-minute _Trio_ is played entirely without vibrato, mostly pretty quietly and with very slow bowing. The sculptural qualities of the sound are reinforced in performance by the statuesque appearance of the players. The timbres are devoid of colour and the notes are played not 'as individual "parts" but as contributions to a chordal unit whose components are of different durations'.[\[11\]](http://www.users.waitrose.com/\~chobbs/smithyoung.html#\_edn11) These chordal units are separated by silences lasting up to 40 seconds.
+\[from [**Following a Straight Line: La Monte Young**](http://www.users.waitrose.com/\~chobbs/smithyoung.html#\_edn11)**, by Dave Smith]**
 
-#### La Monte Young, _Drift Studies_ (1964- )
+Is based entirely on different spacings and transpositions of selected pitches (usually three at any one time) from the 'dream chord'. The opening is given in Example 1. “ My timings are approximate since they are taken down from a recording, but the overlapping of notes in time seems to be carefully structured throughout the work as does the order of pitches (which is related to twelve-note procedures). But these are incidental aspects. What is more noticeable is that the 48-minute _Trio_ is played entirely without vibrato, mostly pretty quietly and with very slow bowing. The sculptural qualities of the sound are reinforced in performance by the statuesque appearance of the players. The timbres are devoid of colour and the notes are played not 'as individual "parts" but as contributions to a chordal unit whose components are of different durations'.[\[11\]](http://www.users.waitrose.com/\~chobbs/smithyoung.html#\_edn11) These chordal units are separated by silences lasting up to 40 seconds.
+
+### La Monte Young, _Drift Studies_ (1964- )
 
 For two or more ultra-stable, precisely-tuned sine-wave drones. The recorded version offers a whole range of psychoacoustical effects to the armchair listener. In time, however, the pitches will 'drift' slightly, despite the accuracy of the equipment. Among other things this causes the volume of each pitch to drift as well. Between September 1966 and January 1970 Young had turned his house into a continuous sound environment. He consequently studied the effects in great detail.
 
 {% embed url="https://www.youtube.com/watch?t=233s&v=5e8QKh3LOQY" %}
 
-#### Alvin Lucier, Crossing, (1982)
+### Alvin Lucier, Crossing, (1982)
 
 ![](<../.gitbook/assets/image (1).png>)
 
@@ -42,7 +44,8 @@ Crossings(1982), for small orchestra, with slow sweep pure wave oscillator, page
 
 {% embed url="https://www.youtube.com/watch?v=JHkoZqmfwjI" %}
 
-James Saundesrs, Eight Panels, (2012)
+### James Saunders, Eight Panels, (2012)
 
 {% embed url="https://www.youtube.com/watch?v=xGod9Pliq7o" %}
 
+[score](http://researchspace.bathspa.ac.uk/4631/6/eight%20panels.pdf)
