@@ -98,3 +98,7 @@
 
 * [A1: internet music project](assignments/a1-internet-music-project.md)
 * [A2: Create a simple instrument](assignments/a2-create-a-simple-instrument.md)
+
+## NETWORKING
+
+* [Freesound essentials](networking/freesound-essentials.md)
