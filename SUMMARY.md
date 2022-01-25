@@ -95,6 +95,7 @@
 * [IM: a case of Generative Music](internet-music/im-a-case-of-generative-music.md)
 * [Destination: Living in a pre tangible internet era.](internet-music/destination-living-in-a-pre-tangible-internet-era..md)
 * [Historical Net-Art pieces](internet-music/historical-net-art-pieces.md)
+* [Internet Music Instruments \[IMI\]](internet-music/internet-music-instruments-imi.md)
 
 ## ASSIGNMENTS
 
