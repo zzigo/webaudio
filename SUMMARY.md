@@ -34,6 +34,7 @@
 ## SCHEDULING
 
 * [Tide](scheduling/tide.md)
+* [Scheduling on WA](scheduling/scheduling-on-wa.md)
 
 ## TONEJS
 
@@ -92,3 +93,8 @@
 * [The four pillars of Internet Music](internet-music/the-four-pillars-of-internet-music.md)
 * [IM: a case of Generative Music](internet-music/im-a-case-of-generative-music.md)
 * [Destination: Living in a pre tangible internet era.](internet-music/destination-living-in-a-pre-tangible-internet-era..md)
+
+## ASSIGNMENTS
+
+* [A1: internet music project](assignments/a1-internet-music-project.md)
+* [A2: Create a simple instrument](assignments/a2-create-a-simple-instrument.md)

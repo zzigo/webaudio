@@ -68,3 +68,8 @@ window.addEventListener('load', () => {
 })
 ```
 
+{% hint style="warning" %}
+To grant separability is useful to construct the audio nodes inside **variables** .
+
+You can use both `const` (better for static data as context declaration)  and `var`&#x20;
+{% endhint %}

@@ -1,46 +1,22 @@
 # buffers
 
+A buffer is a bunch of samples of digital audio in memory. Its length depends on the sample-rate an desired time (SR\*Time = sampleSize).\
+\
+We need to know three things about buffers:
+
+1. How to **fill** a buffer with raw data (we already did it on the [Snare](generators/snare.md) experiment)
+2. How to **load** a sample (wav, ogg, local or remote)
+3. And how to **play** it  (linear or granular)
+
+### Raw Generation
+
+How we already did, using filters, formulas  and random number generators you can get the typical noise-types. There  is a great [article](https://noisehack.com/generate-noise-web-audio-api/#demo) and [lib](https://github.com/zacharydenton/noise.js) by Zachary Denton covering the topic extensively.
+
+### How to Load a Sample
 
 
-```
-const playSample = (audioBuffer, audioContext) => {
-```
 
-```jsx
-	const bufferSource = 
-		new AudioBufferSourceNode(audioContext, {buffer: audioBuffer});
-  const amp = new GainNode (audioContext);
-  bufferSource.connect(amp).connect(audioContext.destination);
-  bufferSource.start();
-```
 
-To grant separability is useful to construct the audio nodes inside variables .
 
-Here we're passing the buffer (audioBuffer) to create a buffer source (the bufferSource)
 
-Then we connect the bufferSource (a private node) to the amp (the process node) and the amp to the destination./
 
-```jsx
-class Pad {
-    constructor (outputNode, audioBuffer) {
-
-      this._context = outputNode.context;
-      this._buffer = audioBuffer;
-      this._outputNode = outputNode;
-    }
-  }
-```
-
-Finally we add a sample method , almost the same than the prior function.
-
-But with one differences, that we're now referring to objects store on this variable
-
-```jsx
-playSample () {
-	const bufferSource = 
-		new AudioBufferSourceNode(this._context, {buffer: this._bufffer});
-  const amp = new GainNode (this._context);
-  bufferSource.connect(amp).connect(this._outputNode);
-  bufferSource.start();
-}
-```
