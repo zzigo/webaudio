@@ -17,6 +17,6 @@ webaudio tes-tone
 {% hint style="success" %}
 **Try this!**\
 ****\
-****1. Fork this repl.it into your own and try to change the frequency and the generator type.
+****1. Fork this codepen into your own and try to change the frequency and the generator type.
 {% endhint %}
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [▪ Welcome to WA-HEM](README.md)
-  * [gallery](welcome-to-wa-hem/gallery.md)
+* [gallery](gallery.md)
 
 ## INIT
 
@@ -13,12 +13,12 @@
 
 ## WEBAUDIO
 
+* [fundamentals](fundamentals.md)
 * [webaudio initialization](webaudio-initialization.md)
 * [generators](webaudio/generators.md)
 * [buffers](webaudio/buffers.md)
 * [audio params](webaudio/audio-params.md)
 * [modular mono synth](webaudio/modular-mono-synth.md)
-* [fundamentals](fundamentals.md)
 
 ## INTERFACES
 

@@ -25,7 +25,7 @@ We have another option to control the mouse activity through the **document** ob
 
 In this case, the mouse coordinates are no longer limited to the canvas area but to the whole document.&#x20;
 
-This is useful for [Theremin](../welcome-to-wa-hem/gallery.md) app,  since is dealing with the fullscreen type defined by CSS as we will see in the next step.
+This is useful for [Theremin](../gallery.md) app,  since is dealing with the fullscreen type defined by CSS as we will see in the next step.
 
 {% embed url="https://replit.com/@jsmusic/mouse03#index.html" %}
 
