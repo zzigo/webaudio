@@ -45,6 +45,7 @@
 
 ## P5
 
+* [Simple sampler in p5](p5/simple-sampler-in-p5.md)
 * [generative visuals](p5/generative-visuals.md)
 * [loops](p5/loops.md)
 
