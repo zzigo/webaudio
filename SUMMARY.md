@@ -35,11 +35,12 @@
 ## SCHEDULING
 
 * [Tide](scheduling/tide.md)
+* [Scheduling basics](scheduling/scheduling-basics.md)
 * [Scheduling on WA](scheduling/scheduling-on-wa.md)
 
 ## TONEJS
 
-* [tonejs fundamentals](tonejs/tonejs-fundamentals.md)
+* [toneJS fundamentals](tonejs/tonejs-fundamentals.md)
 * [A synth app](tonejs/a-synth-app.md)
 
 ## P5

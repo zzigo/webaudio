@@ -1,5 +1,5 @@
 ---
-description: this is the first assignment and also part of the last one.
+description: 'DUE: 25.02.2022 this is the first assignment and also part of the last one.'
 ---
 
 # A1: internet music project

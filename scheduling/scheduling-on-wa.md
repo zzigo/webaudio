@@ -1,3 +1,3 @@
 # Scheduling on WA
 
-{% embed url="https://replit.com/@zzigo/scheduling01" %}
+{% embed url="https://replit.com/@jsmusic/schedule02#index.html" %}
