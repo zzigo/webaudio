@@ -42,7 +42,7 @@ sound.play();
 
 On this textbuffer example we are also using two other technologies, the **textarea** HTML element**,** and **text-parsing.**  This method is one of the most interesting on the web dealing with the keyboard, search-engine performative logic and regExp(). We will retake all of this on further modules. Check [textarea](../interfaces/textarea.md) for more info.
 
-#### Tone.js Method&#x20;
+### Tone.js Method&#x20;
 
 See[ A Synth app](../tonejs/a-synth-app.md)
 

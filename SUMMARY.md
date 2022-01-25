@@ -51,6 +51,7 @@
 
 ## SCORES
 
+* [Static SVG score](scores/static-svg-score.md)
 * [dynamic scores: collider](scores/dynamic-scores-collider.md)
 
 ## WEBGL
