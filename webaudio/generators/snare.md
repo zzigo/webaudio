@@ -2,7 +2,7 @@
 
 To synthesize a snare we need to emulate the rattling of the snare wires. This can be done by creating a noise burst effect.&#x20;
 
-We will use the technic called the **random number generator.**
+We will use the technique called the **random number generator.**
 
 **T**he `createBufferSource` method Interface is used to create a new `AudioBufferSourceNode`, which can be used to play audio data contained within an AudioBuffer object. This allows us to fill in the buffer with any code and content we want.
 
