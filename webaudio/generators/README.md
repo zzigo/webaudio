@@ -16,7 +16,7 @@ remember these two programming-flow questions:\
 3. Each stage will have a specific code and specific bindings between them.&#x20;
 4. Along the way, we will start from a very raw code, to understand the fundamentals of JS, which will become more synthetic and encapsulated with the use of libraries.&#x20;
 
-![a simple connection ](../.gitbook/assets/image.png)
+![a simple connection ](../../.gitbook/assets/image.png)
 
 5.For representation-interface we will use the \<button\</button> HTML element
 
@@ -32,7 +32,7 @@ document.getElementById("kick")
 <buttonTarget>.addEventListener ("click", () => { <codeToPlay> })
 ```
 
-This is a tricky step. The method addEventListener triggers an arrow [function](../javascript/js-functions.md) that is  called whenever the event is delivered. The definition of the event is  the`"click"` part of the code. So the basic syntaxis is:
+This is a tricky step. The method addEventListener triggers an arrow [function](../../javascript/js-functions.md) that is  called whenever the event is delivered. The definition of the event is  the`"click"` part of the code. So the basic syntaxis is:
 
 ```
 addEventListener(type, function);
