@@ -26,9 +26,10 @@
 
 * [On-Screen console](interfaces/on-screen-console.md)
 * [buttons](interfaces/buttons.md)
+* [sliders](interfaces/sliders.md)
 * [mouse](interfaces/mouse.md)
 * [keyboard](interfaces/keyboard.md)
-* [textfield](interfaces/textfield.md)
+* [textarea](interfaces/textarea.md)
 * [sensors](interfaces/sensors.md)
 
 ## SCHEDULING
