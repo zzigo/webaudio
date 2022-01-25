@@ -24,7 +24,7 @@ The ephemeral nature of software, the distinction between system conception and 
 
 ### La Monte Young, Trio for Strings (1958)
 
-![Trio for Strings (1958), La Monte Young](../.gitbook/assets/image.png)
+![Trio for Strings (1958), La Monte Young](<../.gitbook/assets/image (1).png>)
 
 \[from [**Following a Straight Line: La Monte Young**](http://www.users.waitrose.com/\~chobbs/smithyoung.html#\_edn11)**, by Dave Smith]**
 
@@ -38,7 +38,7 @@ For two or more ultra-stable, precisely-tuned sine-wave drones. The recorded ver
 
 ### Alvin Lucier, Crossing, (1982)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Crossings(1982), for small orchestra, with slow sweep pure wave oscillator, page 1 of the manuscript score. The diagonal line represents a slowly ascending sine wave sweeping from C at 32.7 cycles per second to F-sharp at 92.5 cycles per second. Whole notes straddling the diagonal denote long tones played by various instruments. Those on the left and right of the diagonal denote the left and right sides of the loudspeaker from which the rising wave flows. Numbers to the left and right of the diagonal are cues in cycles per second for the players to begin and end their sustained tones.
 
