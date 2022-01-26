@@ -10,6 +10,7 @@
 * [HTML, CSS & JS](init/html-css-and-js.md)
 * [editors](init/editors.md)
 * [introduction to GUI](init/introduction-to-gui.md)
+* [templates](init/templates.md)
 
 ## WEBAUDIO
 
