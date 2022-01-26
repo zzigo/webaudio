@@ -31,6 +31,8 @@
 * [keyboard](interfaces/keyboard.md)
 * [textarea](interfaces/textarea.md)
 * [sensors](interfaces/sensors.md)
+* [camera](interfaces/camera.md)
+* [mic](interfaces/mic.md)
 
 ## SCHEDULING
 
