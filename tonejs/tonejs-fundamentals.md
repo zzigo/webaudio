@@ -6,6 +6,26 @@ description: a basic introduction to Yotam Mann's toneJS library
 
 {% embed url="https://replit.com/@jsmusic/helloToneJS#index.html" %}
 
+##
+
+{% hint style="danger" %}
+IMPORTANT
+
+in order to avoid the error "Invoke user interaction" add this enclosing the tone.js code:
+{% endhint %}
+
+```
+//attach a click listener to a play button
+document.querySelector('#play')?.addEventListener('click', async () => {
+	await Tone.start()
+	console.log('audio is ready')
+	
+	//tone.js code goes here
+	
+	}
+
+```
+
 ### Make a note
 
 ```jsx
