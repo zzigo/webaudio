@@ -1,6 +1,6 @@
 # ▪ Welcome to WA-HEM
 
-## [HEM WebAudio](https://github.com/zzigo/hem-webaudio)
+## [HEM WebAudio](https://github.com/zzigo/webaudio)
 
 ## Description
 
