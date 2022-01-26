@@ -106,6 +106,7 @@
 * [Destination: Living in a pre tangible internet era.](internet-music/destination-living-in-a-pre-tangible-internet-era..md)
 * [Historical Net-Art pieces](internet-music/historical-net-art-pieces.md)
 * [Internet Music Instruments \[IMI\]](internet-music/internet-music-instruments-imi.md)
+* [freesound.org API](internet-music/freesound.org-api.md)
 
 ## ASSIGNMENTS
 
