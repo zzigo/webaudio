@@ -16,27 +16,33 @@ Each student is required to make a personal repository on gitpod, repl.it, or gi
 
 ## Timeline
 
-`week 1`. Intro to Internet and Javascript-webaudio API.
+`week 1`. Hello Sound: Intro to Internet and Javascript-webaudio API.
 
-A simple generator. Paradigmaticall works and apps.
+`week 2`. Functions. Synthesis, variables, net-art, IMI.
 
-`week 2`. Javascript 2 . Synthesis, variables, and interfaces.
+`week 3`. Structures. loops, audioparams, css, git.
 
-`week 3`. Javascript 3. Classes and Pattern design.
+`week 4`. Interfaces. DOM, mouse and keyboard.
 
-`week 4`. Controllers 1. Intro to Networking performance.
+`week 5`. Scheduling. procedural music, intro to toneJS
 
-Implementation on stream.js , OSC-JS. Miraweb and Max/MSP
+`week 6.`Integration. toneJS synths and time notation.
 
-`week 5`. Dynamic Scores.
+`week 8`. Intro to LiveCoding, examples in Hydra, p5live and faust-live.
 
-Images (jpg, pdf, svg), Video and Code network synching.
+`week 9`. Networking. webRTC, streamJS, socketJS, kimi and youtube API.
 
-`week 6`. Intro to LiveCoding, examples in Hydra, p5live and faust-live.
+`week 10.` Big data and machine learning. Python and Google Colab.
 
-`week 7`. Machine Learning and BigData.
+`week 11.`Scores. Liliypond, vexflow, guido-abc, kimi. &#x20;
 
-`week 8`. Final project
+`week 12.` Sync. connections with OSC-JS. Miraweb- Max/MSP, and pd interpreters.
+
+`week 13.` Metaverses. Mozilla Hubs, three.js, a-frame.
+
+`week 14`. Projects.
+
+`week 15`.Integrations.
 
 ## Contents
 
