@@ -27,9 +27,9 @@ osc.start(0);
 osc.stop(4);
 ```
 
-Here the sound will appear immediately, and if you didn’t set your gain properly, you’re gonna have a bad time.
+{% embed url="https://codepen.io/LucianoAzzigotti/pen/gOXpoOY?editors=1011" %}
 
-Now, we will use the _AudioParam_ methods **setValueAtTime** & **exponentialRampToValueAtTime**.
+Here the sound will appear immediately, Now, we will use the _AudioParam_ methods **setValueAtTime** & **exponentialRampToValueAtTime**.
 
 ```jsx
 osc.frequency.setValueAtTime(440, currentTime)
