@@ -1,4 +1,8 @@
-# audio params
+# AudioParams
+
+{% embed url="https://replit.com/@jsmusic/linearRamp#index.html" %}
+Linear AudioParam experiment
+{% endembed %}
 
 All AudioParams have methods that we can use to manipulate their values. Using these methods, we can set envelopes and create more finite control structures of our audio signal using automation.
 
