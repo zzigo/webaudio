@@ -44,6 +44,8 @@ The `setValueAtTime` simply sets an AudioParam _value_ (the first argument) to b
 
 `exponentialRampToValueAtTime` ramps to a value (the first argument) exponentially until the specified endTime argument (the second argument). We also can use `linearRampToValueAtTime`, which has the same functionality except it operates _linearly_ and not exponentially.
 
+### setValueCurveAtTime
+
 Another AudioParam method is `setValueCurveAtTime`. This method gives us another form of AudioParam automation. It accepts in array of values, and automates these values based on a beginning time argument and a duration time argument.
 
 An example :
@@ -61,43 +63,7 @@ osc.frequency.setValueCurveAtTime(waveArray, currentTime + 4, 4);
 
 The above code will automate the frequency between these set values _evenly_, beginning after 4 seconds and lasting for 4 seconds. Add this code to our existing AudioParam example, and we should have something like this.
 
-```jsx
-window.AudioContext = window.AudioContext || window.webkitAudioContext;
-
-var audioContext = new AudioContext();
-
-var globalGain = audioContext.createGain();
-
-var currentTime = audioContext.currentTime;
-var osc = audioContext.createOscillator();
-console.log(osc);
-
-osc.type = 'square';
-osc.frequency.value = 0;
-
-// Attack
-osc.frequency.setValueAtTime(440, currentTime);
-osc.frequency.exponentialRampToValueAtTime(5000, currentTime + 2);
-
-// Decay
-// osc.frequency.setValueAtTime(5000, currentTime + 3)
-osc.frequency.exponentialRampToValueAtTime(200, currentTime + 3);
-
-var waveArray = new Float32Array(5);
-waveArray[0] = 200;
-waveArray[1] = 700;
-waveArray[2] = 2000;
-waveArray[3] = 100;
-waveArray[4] = 440;
-
-osc.frequency.setValueCurveAtTime(waveArray, currentTime + 4, 4);
-
-osc.connect(globalGain);
-globalGain.connect(audioContext.destination);
-
-osc.start(currentTime);
-osc.stop(10);
-```
+{% embed url="https://codepen.io/LucianoAzzigotti/pen/oNoXpZO?editors=1011" %}
 
 The final two AudioParam methods are `setTargetAtTime` and `cancelScheduledValues`.
 
