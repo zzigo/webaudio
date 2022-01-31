@@ -52,6 +52,7 @@
 * [generative visuals](p5/generative-visuals.md)
 * [loops](p5/loops.md)
 * [simple game](p5/simple-game.md)
+* [agents](p5/agents.md)
 
 ## SCORES
 
