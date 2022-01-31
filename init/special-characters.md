@@ -47,6 +47,37 @@ are used in UI Pages for HTML tags
 </html>
 ```
 
+### ' " \` single, double quotes and backticks
+
+* Quotes are used to enclose strings.
+* The three of them can be used indistinctly, from the technical point of view they are the same thing.
+
+```
+'crescendo' === "crescendo" === `crescendo`
+```
+
+* The decision is more stylistic and depends on the configuration of the keyboard according to your language.
+* According to common practice, it is more usual to use `'` in javascript, `"` in JSON and `` ` `` in [template literals](special-characters.md#template-literales) or for block's separation.&#x20;
+* A double-quoted string can have single quotes without escaping them, conversely, a single-quoted string can have double quotes within it without having to escape them.
+
+```
+var partitas = "Bach's well-known collection of instrumental pieces"
+var partitas = 'Bach\'s well-known "collection" of instrumental pieces'
+```
+
+* `'` is easier if you wish to write html within javascript, but they are not accepted in JSON.
+* A double-quoted string can have single quotes without escaping them, conversely, a single-quoted string can have double quotes within it without having to escape them.
+
+#### &#x20;template literals
+
+Using backticks `` ` `` in  template literals, you are able to make use of the syntactic sugar, making substitutions like this more readable:
+
+```
+let crotchet = 60;
+let quaver = 120;
+console.log(`Semiquaver is ${quaver * 2} and not ${crochet  + quaver} 
+```
+
 {% hint style="success" %}
 ### **Try this!**
 
