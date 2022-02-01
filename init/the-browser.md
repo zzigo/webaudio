@@ -82,8 +82,9 @@ To check if a technology is implemented on a browser you can check it at [https:
 
 `3. open the console with the shortcuts explained above`
 
-`4. type console.log ("helloworld")+ enter and see the results.` \
-``\
+`4. type console.log ("helloworld")+ enter and see the results.`&#x20;
+
+`5. SPOILER ALERT!: if you wannt know what kind of things are possible just in the console, jump to` [`js-fundamentals`](../javascript/js-fundamentals.md) `and follow instructions`\
 ``
 {% endhint %}
 

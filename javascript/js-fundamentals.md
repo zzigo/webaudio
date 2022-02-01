@@ -31,4 +31,11 @@ osc.stop(audioContext.currentTime + 1)
 
 #### envelopes in WA \[codegolfing style]
 
+```
+var o,e,dr,d=document,w=window,b=d.createElement("button"),c=new AudioContext(),wv=w.innerWidth,hv=w.innerHeight;b.id='b';b.style.width=wv;b.style.height=hv;d.body.appendChild(b);b.innerText="PLAY";d.body.style.display='flex';d.body.style.background='lightgrey'
+b.addEventListener("click",()=>{o=c.createOscillator();e=c.createGain();dr=1.5;o.frequency.value=200;o.type='sine';e.gain.value=1
+o.connect(e);e.connect(c.destination);o.start(c.currentTime);e.gain.exponentialRampToValueAtTime(0.000001,c.currentTime+dr)
+setTimeout(()=>o.stop(c.currentTime),dr*10000);})
+```
+
 {% embed url="https://replit.com/@jsmusic/cg-tone" %}
