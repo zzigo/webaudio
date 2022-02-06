@@ -59,6 +59,10 @@
 * [SVG based scores](scores/static-svg-score.md)
 * [dynamic scores](scores/dynamic-scores.md)
 
+## LIVECODING
+
+* [Introduction](livecoding/introduction.md)
+
 ## WEBGL
 
 * [helloGL](webgl/hellogl.md)
