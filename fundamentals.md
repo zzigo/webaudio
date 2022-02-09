@@ -57,15 +57,23 @@ osc.start();
 
 But this won't work on many browsers due a limitation introduced in 2018 by Google Chrome:
 
-The user gestures are required for the browser tab, so as minimum I need to create a button to play the audio context when its pressed.
+{% hint style="warning" %}
+In order to run the WebAudio API , a user gesture is required for the browser tab, so as minimum I need to create a button to play the audio context when it's pressed. Copy the following code as an example:
+
+
+{% endhint %}
 
 ```jsx
+<body>
+<button id="start">START</button>
+<script>
 window.addEventListener('load', () => {
-
   const button1 = document.getElementbyId("start");
   button1.disable = false;
   button1.addEventListener ('click', () => context.resume());
 })
+</script>
+</body>
 ```
 
 {% hint style="warning" %}
