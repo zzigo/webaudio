@@ -62,7 +62,8 @@
 ## LIVECODING
 
 * [Introduction](livecoding/introduction.md)
-* [Hydra](livecoding/hydra.md)
+* [Hydra](livecoding/hydra/README.md)
+  * [Making your webpage with Hydra](livecoding/hydra/making-your-webpage-with-hydra.md)
 
 ## WEBGL
 

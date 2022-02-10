@@ -10,7 +10,7 @@ Modular synths are generally **generators** (VCO, controlled voltage oscillator)
 
 In hydra, this logic is followed and each function can be seen as a video synthesis module.
 
-Conceptually, Hydra is fundamentally based on two technical principles: the use of [WebRTC](../networking/webrtc.md) and feedback.
+Conceptually, Hydra is fundamentally based on two technical principles: the use of [WebRTC](../../networking/webrtc.md) and feedback.
 
 {% hint style="info" %}
 a strange recursion  between video-feedback and experimental music: the two video-feedback pionners Steina and Woody Vasulka founded The Kitchen in 1970
