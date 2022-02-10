@@ -11,13 +11,19 @@ a.hide() //hides audio input
 
 #### a.fft\[]
 
-use lowest sound calue (bass freqs)
-
 ```
 shape(3,() => a.fft[0]).out() // audio input controls shape's size
 ```
 
-a.setSmooth
+use lowest sound value (bass freqs). a.fft gives normalize value between 0 and 1,  availablie in 4 different frequency bands: a.fft\[0],  a.fft\[1], a.fft\[2] and a.fft\[3]
+
+```
+shape(4).color(0,0,1).scale( () => a.fft[0] *2 ).out(o0)
+  shape(5).color(1,0,1).scale( () => a.fft[1] *2 ).out(o1)
+  shape(6).color(0,1,1).scale( () => a.fft[2] *2 ).out(o2)
+  shape(7).color(0.5,0,1).scale( () => a.fft[3] *2 ).out(o3)
+  render()
+```
 
 ```
 a.setSmooth (0.9) //add this command above the previous code
