@@ -25,6 +25,13 @@ a strange recursion  between video-feedback and experimental music: the two vide
 | ⌃+⇧+H     | Hide/Show code        |   |
 | ⌃+⇧+S     | Take a screenshot     |   |
 
+{% hint style="success" %}
+Reference of all functions in Hydra:\
+[https://github.com/hydra-synth/hydra/blob/main/docs/funcs.md](https://github.com/hydra-synth/hydra/blob/main/docs/funcs.md)\
+\
+
+{% endhint %}
+
 ### &#x20;Hydra from scratch
 
 1. Go to  [https://hydra.ojack.xyz/](https://hydra.ojack.xyz) (check the important short-cuts above!)
