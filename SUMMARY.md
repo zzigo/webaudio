@@ -62,6 +62,7 @@
 ## LIVECODING
 
 * [Introduction](livecoding/introduction.md)
+* [Hydra](livecoding/hydra.md)
 
 ## WEBGL
 
@@ -71,6 +72,7 @@
 ## NETWORKING
 
 * [Freesound essentials](networking/freesound-essentials.md)
+* [WebRTC](networking/webrtc.md)
 
 ## TOOLS
 
