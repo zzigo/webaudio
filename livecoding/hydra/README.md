@@ -6,6 +6,12 @@ description: By Olivia Jack
 
 Hydra is inspired by modular synthesis where each module performs a specific operation and the inputs and outputs of various modules are interconnected to produce more complex results than a single module can perform.
 
+{% embed url="https://vimeo.com/316214052" %}
+Sandin Image Processor (1977) one of the influences of Hydra
+{% endembed %}
+
+
+
 Modular synths are generally **generators** (VCO, controlled voltage oscillator) or **modulators** (VCF, voltage-controlled filter).
 
 In hydra, this logic is followed and each function can be seen as a video synthesis module.
