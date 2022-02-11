@@ -76,6 +76,7 @@
 
 ## NETWORKING
 
+* [Networking Tools](networking/networking-tools.md)
 * [Freesound essentials](networking/freesound-essentials.md)
 * [WebRTC](networking/webrtc.md)
 
