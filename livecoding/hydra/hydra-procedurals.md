@@ -2,7 +2,9 @@
 
 ### Audio
 
-#### &#x20;a.
+To start to work with audio we will use the function a.&#x20;
+
+The first step is to visualize the audioinput using this command:
 
 ```
 a.show() //shows audio input
@@ -11,11 +13,19 @@ a.hide() //hides audio input
 
 #### a.fft\[]
 
+By applying a Fast Fourier Transform we convert the audio signal into the frequency domain, and apply this value to any other. `a.fft` use lowest sound value (bass freqs). a.fft gives normalize value between 0 and 1,  availablie in 4 different frequency bands: a.fft\[0],  a.fft\[1], a.fft\[2] and a.fft\[3]
+
+The basic code snippet is&#x20;
+
+```
+()=>(a.fft[0]*4)
+```
+
+Just let experiment with the multiplier value in order to arrive to the proper value-range depending on the synth-chain you're working on
+
 ```
 shape(3,() => a.fft[0]).out() // audio input controls shape's size
 ```
-
-use lowest sound value (bass freqs). a.fft gives normalize value between 0 and 1,  availablie in 4 different frequency bands: a.fft\[0],  a.fft\[1], a.fft\[2] and a.fft\[3]
 
 ```
 shape(4).color(0,0,1).scale( () => a.fft[0] *2 ).out(o0)
