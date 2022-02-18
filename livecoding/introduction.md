@@ -11,5 +11,19 @@ Nick Collins, one of the makers and witnesses of the emergence of live coding wi
 The first programming languages to take this idea on board are Forth (1980, with which Ron Kuivila creates what is considered to be the first piece of live coding, 1985's "Water Surface"). \
 Forth touches on some ideas from Lisp and Smalltalk, all that will later evolve into the first version of Supercollider.&#x20;
 
-More to research on  [Impromptu](http://impromptu.moso.com.au), [TopLap](https://toplap.org) (2001), [ChucK](http://chuck.cs.princeton.edu) (2003), and [TidalCycles](https://tidalcycles.org).
+### Live-coding sound resources and apps
+
+[TopLap](https://toplap.org) (2001)
+
+[ChucK](http://chuck.cs.princeton.edu) (2003)
+
+&#x20;[Impromptu](http://impromptu.moso.com.au) (2005)
+
+[TidalCycles](https://tidalcycles.org)(2009)
+
+[Gibber ](https://gibber.cc)(2018)
+
+[Sema](https://sema.codes) (2020)
+
+
 
