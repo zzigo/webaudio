@@ -4,7 +4,7 @@
 | ------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------- |
 | osc(freq,sync,rgbsynch)   | <pre><code>osc().add(o1).out()</code></pre>                                                                  |             |
 | solid(r,g,b)              |                                                                                                              |             |
-| noise()                   | noise().out(o1)                                                                                              |             |
+| noise()                   | <pre><code>noise().out()</code></pre>                                                                        |             |
 | gradient()                |                                                                                                              |             |
 | shape(sides,scale,border) | <pre><code>shape(3).out(o0)
 //
