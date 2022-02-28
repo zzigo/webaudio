@@ -89,6 +89,7 @@
 * [Glossary](tools/glossary.md)
 * [IDEs](tools/ides.md)
 * [How to create a github repository](tools/how-to-create-a-github-repository.md)
+* [Experimental Browsers](tools/experimental-browsers.md)
 
 ## HTML
 
