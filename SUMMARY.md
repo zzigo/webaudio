@@ -56,6 +56,8 @@
 
 ## SCORES
 
+* [Writing in Internet: an introduction](scores/writing-in-internet-an-introduction.md)
+* [Inscore](scores/inscore.md)
 * [SVG based scores](scores/static-svg-score.md)
 * [dynamic scores](scores/dynamic-scores.md)
 

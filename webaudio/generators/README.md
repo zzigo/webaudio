@@ -16,7 +16,7 @@ remember these two programming-flow questions:\
 3. Each stage will have a specific code and specific bindings between them.&#x20;
 4. Along the way, we will start from a very raw code, to understand the fundamentals of JS, which will become more synthetic and encapsulated with the use of libraries.&#x20;
 
-![a simple connection ](../../.gitbook/assets/image.png)
+![a simple connection ](<../../.gitbook/assets/image (1).png>)
 
 5.For representation-interface we will use the \<button\</button> HTML element
 
