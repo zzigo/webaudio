@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "45c9cec9d9822c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cef4d77e1dd63d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "javascript/js-hoisting.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5368c41f49bb067",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b18d97aaacc93b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f34a94d1d6de8c79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "92f60d18ea0f4e27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c253ec084d274943",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c4b6b421ab702d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007ddc81b52a0582",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "javascript/js-hoisting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9cef4d77e1dd63d9",
+  "lastOpenFiles": [
+    "javascript/js-hoisting.md",
+    "javascript/js-variables.md",
+    "livecoding/hydra/making-your-webpage-with-hydra.md",
+    "javascript/js-functions.md",
+    "javascript/js-loops.md",
+    "javascript/js-methods.md",
+    "javascript/js-console-interaction.md",
+    "javascript/js-fundamentals.md",
+    "javascript/js-dom.md",
+    "internet-music/introduction.md"
+  ]
+}
