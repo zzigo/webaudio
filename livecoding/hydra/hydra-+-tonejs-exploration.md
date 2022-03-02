@@ -8,7 +8,7 @@
 p1 = new P5()
 await loadScript("https://unpkg.com/tone")
 
-//var declare
+//var declare [L]
 var number = 0
 
 //FM synth 
