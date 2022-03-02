@@ -2,7 +2,7 @@
 
 ## A first synch between ToneJS , H & p5
 
-```
+```atom
 
 //init p5 and toneJS libs inside hydra
 p1 = new P5()
