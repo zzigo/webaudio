@@ -70,6 +70,7 @@
   * [Hydra procedurals](livecoding/hydra/hydra-procedurals.md)
   * [Hydra interfaces](livecoding/hydra/hydra-interfaces.md)
   * [Making your webpage with Hydra](livecoding/hydra/making-your-webpage-with-hydra.md)
+  * [Hydra + ToneJS exploration](livecoding/hydra/hydra-+-tonejs-exploration.md)
 * [Livecoding at HEM](livecoding/livecoding-at-hem.md)
 
 ## WEBGL
