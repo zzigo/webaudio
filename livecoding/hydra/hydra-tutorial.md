@@ -1,4 +1,4 @@
-# Hydra Tutorial
+# Hydra Generators
 
 ## graph generators
 

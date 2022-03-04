@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "javascript/js-hoisting.md",
+            "file": "livecoding/hydra/hydra-+-tonejs-exploration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/js-hoisting.md",
+                "file": "livecoding/hydra/hydra-+-tonejs-exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9cef4d77e1dd63d9",
   "lastOpenFiles": [
+    "livecoding/hydra/hydra-+-tonejs-exploration.md",
+    "livecoding/hydra/hydra-generators.md",
+    "livecoding/hydra/making-your-webpage-with-hydra.md",
+    "livecoding/hydra/hydra-procedurals.md",
     "javascript/js-hoisting.md",
     "javascript/js-variables.md",
-    "livecoding/hydra/making-your-webpage-with-hydra.md",
     "javascript/js-functions.md",
     "javascript/js-loops.md",
     "javascript/js-methods.md",
-    "javascript/js-console-interaction.md",
-    "javascript/js-fundamentals.md",
-    "javascript/js-dom.md",
-    "internet-music/introduction.md"
+    "javascript/js-console-interaction.md"
   ]
 }
