@@ -1,20 +1,21 @@
 # Hydra Modulators
 
-#### blend
+## Hydra Cheatsheet
 
-```
-s0.initCam(0)
-src(s0)
-    .blend(o0,0.99)
-    .out(o0)
-```
+### source&#x20;
 
-#### contrast
+noise voronoi oscshape gradient src solid
 
-brightness
+### geometry&#x20;
 
-scale
+rotate scale pixelate repeat repeatX repeatY kaleid scrollX scrollY
 
-rotate
+\##color&#x20;
 
-modulate
+posterize shift invert contrast brightness luma thresh color saturate hue colorama
+
+\##blend add layer blend mult diff mask
+
+\##modulate modulateRepeat modulateRepeatX modulateRepeatY modulateKaleid modulateScrollX modualteScrollY modulate modulateScale modulatePixelate modulateRotate modulateHue
+
+\##tricks
