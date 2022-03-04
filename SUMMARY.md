@@ -66,7 +66,7 @@
 * [Introduction](livecoding/introduction.md)
 * [Hydra](livecoding/hydra/README.md)
   * [Hydra Generators](livecoding/hydra/hydra-generators.md)
-  * [Hydra Modulators](livecoding/hydra/hydra-modulators.md)
+  * [Hydra cheatsheet](livecoding/hydra/hydra-cheatsheet.md)
   * [Hydra procedurals](livecoding/hydra/hydra-procedurals.md)
   * [Hydra interfaces](livecoding/hydra/hydra-interfaces.md)
   * [Making your webpage with Hydra](livecoding/hydra/making-your-webpage-with-hydra.md)
