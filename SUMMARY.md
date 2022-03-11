@@ -80,8 +80,8 @@
 
 ## NETWORKING
 
-* [Flok](networking/flok.md)
 * [Intro to networked performance](networking/intro-to-networked-performance.md)
+* [Flok](networking/flok.md)
 * [Networking Tools](networking/networking-tools.md)
 * [Freesound essentials](networking/freesound-essentials.md)
 * [WebRTC](networking/webrtc.md)

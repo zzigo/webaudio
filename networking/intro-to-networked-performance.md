@@ -16,6 +16,34 @@ This is inherent to the evolution of flow programming languages dedicated to mus
 
 
 
+{% hint style="success" %}
+Try this!&#x20;
+
+1. open the terminal
+2. type traceroute 192.205.33.93 or any web address (withouth http :// or https://)
+
+
+
+`traceroute` `<ip or webaddress>` is a command to trace the hops between your computer and a final destination.
+
+Each line lists the hop number, three measurements for Round Trip Time (RTT), the system Name and IP Address reached at that hop.
+{% endhint %}
+
+\
+**Round Trip Time (RTT):** The time it takes for a packet to get to a hop and back, displayed in milliseconds (ms). By default, **tracert** sends three packets to each hop, so the output lists three roundtrip times per hop. RTT is sometimes also referred to as latency. An important factor that may impact RTT is the physical distance between hops.\
+\
+If an asterisk (\*) appears for RTT, then a packet was not returned within the expected timeframe.
+
+
+
+## References
+
+From a technical aspect the book by Ilya Grigorik[ High Performance Browser Networking](https://hpbn.co) is the first reference for any networking performance research&#x20;
+
+
+
+
+
 
 
 
