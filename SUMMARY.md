@@ -86,6 +86,12 @@
 * [Freesound essentials](networking/freesound-essentials.md)
 * [WebRTC](networking/webrtc.md)
 
+## machine learning
+
+* [IA & ML](machine-learning/ia-and-ml.md)
+* [The ML process](machine-learning/the-ml-process.md)
+* [Vocal Neural Network](machine-learning/vocal-neural-network.md)
+
 ## TOOLS
 
 * [Glossary](tools/glossary.md)
