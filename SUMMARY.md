@@ -90,7 +90,7 @@
 
 * [IA & ML](machine-learning/ia-and-ml.md)
 * [The ML process](machine-learning/the-ml-process.md)
-* [Vocal Neural Network](machine-learning/vocal-neural-network.md)
+* [colabs and tools](machine-learning/colabs-and-tools.md)
 
 ## TOOLS
 
