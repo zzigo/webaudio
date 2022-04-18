@@ -15,6 +15,10 @@ JS -> Javascript
 
 ## important characters in javascript
 
+### - hyphen minus (or dash)
+
+used mostly for negative values and to pass arguments on command line apps.
+
 ### ; Semicolon
 
 JS does not strictly require them. when there is a place where a semicolon is needed, the parser will add it behind the scenes. Code looks cleaner but be careful, it can produce some uncaught type errors.
