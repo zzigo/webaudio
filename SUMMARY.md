@@ -72,6 +72,7 @@
   * [Making your webpage with Hydra](livecoding/hydra/making-your-webpage-with-hydra.md)
   * [Hydra + ToneJS exploration](livecoding/hydra/hydra-+-tonejs-exploration.md)
 * [Earsketch2](livecoding/earsketch2.md)
+* [Sema](livecoding/sema.md)
 * [Livecoding at HEM](livecoding/livecoding-at-hem.md)
 
 ## WEBGL
