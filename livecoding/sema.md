@@ -2,7 +2,9 @@
 
 [https://sema.codes/playground/](https://sema.codes/playground/)\
 \
+Sema is developed at the University of Sussex, with ❤️ and funding from two UKRI/AHRC grants 'MIMIC - Musically Intelligent Machines Interacting Collaboratively' and 'Innovating Sema'. It builds upon many amazing contributions of the open-source community, including [Svelte](https://svelte.dev), [Routify](https://routify.dev), [Supabase](https://supabase.com), [Nearley](https://nearley.js.org) and [Maximilian](https://github.com/micknoise/Maximilian).
 
+Its main feature, unlike other livecoding frameworks, is that you can create your own language from grammar definitions.
 
 ### the three type of editors
 
@@ -31,7 +33,22 @@ basics
 
 ```
 
+```
+//variables
 
+//:<name>:<content>
+
+:osc1:{102}sawn;
+:osc2:{201}sawn;
+:osc3:{199}sawn;
+:osc4:{150}sawn;
+>{:osc1:, :osc2:, :osc3:, :osc4:}mix;
+
+
+:all:{:osc1:{102}sawn,:osc2:{103}sawn}mix;
+>{:osc1:,10}dist;
+
+```
 
 #### 2.javascript
 
