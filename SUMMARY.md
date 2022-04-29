@@ -124,6 +124,8 @@
 * [js-functions](javascript/js-functions.md)
 * [js-loops](javascript/js-loops.md)
 * [js-hoisting](javascript/js-hoisting.md)
+* [advance topics](javascript/advance/README.md)
+  * [Module Pattern](javascript/advance/module-pattern.md)
 
 ## ▪ INTERNET MUSIC
 
