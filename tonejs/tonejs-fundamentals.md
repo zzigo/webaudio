@@ -23,7 +23,6 @@ document.querySelector('#play')?.addEventListener('click', async () => {
 	//tone.js code goes here
 	
 	}
-
 ```
 
 ### Make a note
@@ -46,7 +45,7 @@ synth.triggerRelease(now + 1)
 
 ### **triggerAttack / triggerRelease**
 
-`triggerAttack` start with increasing amplitude pitch, and `triggerRelease` goes to 0 amplitude  (note off)
+`triggerAttack` start with increasing amplitude pitch, and `triggerRelease` goes to 0 amplitude (note off)
 
 ```jsx
 const synth = new Tone.Synth().toDestination();
@@ -60,7 +59,7 @@ synth.triggerAttackRelease("G4", "8n", now + 1)
 
 `triggerAttackRelease` combines `triggerAttack` with `triggerRelease`
 
-The first argument is the pitch in  Hertz or D#2
+The first argument is the pitch in Hertz or D#2
 
 The second one, is the duration in seconds or proportional notation
 
@@ -74,7 +73,7 @@ Check this to show the seconds of the scheduler.
 
 ## **Starting Audio**
 
-**IMPORTANT**: Run Tone.js after calling`Tone.start()` with a  "click" or "keydown".
+**IMPORTANT**: Run Tone.js after calling`Tone.start()` with a "click" or "keydown".
 
 ```jsx
 document.querySelector('button')?.addEventListener('click', async () => {
@@ -87,9 +86,9 @@ document.querySelector('button')?.addEventListener('click', async () => {
 
 #### **Transport**
 
-Tone.Transport can be started,stopped, looped and adjusted in realTime,  unlike AudioContext
+Tone.Transport can be started,stopped, looped and adjusted in realTime, unlike AudioContext
 
-Tone.Loop is a  loop.
+Tone.Loop is a loop.
 
 ```jsx
 // crea dos sintes mono
@@ -184,3 +183,11 @@ osc.frequency.value = "C4";
 
 osc.frequency.rampTo("C5", 2)
 ```
+
+## Tone.js documentation per subject
+
+1. [Signals](https://github.com/Tonejs/Tone.js/wiki/Signals)
+2. [Time](https://github.com/Tonejs/Tone.js/wiki/Time)
+3. [Transport](https://github.com/Tonejs/Tone.js/wiki/Transport)
+4. [TransportTime](https://github.com/Tonejs/Tone.js/wiki/TransportTime)
+5. [Tone.js API](https://tonejs.github.io/docs/14.7.77/index.html)

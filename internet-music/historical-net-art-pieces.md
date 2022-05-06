@@ -25,8 +25,6 @@ manifest:
 
 This piece besides being totally created in ToneJS makes use of the scrolling method to mutate music parameters.
 
-
-
 ### 2020 Einklang freier wesen
 
 [Einklang Freier Wesen](https://einklangfreierwesen.de)
@@ -51,11 +49,11 @@ WAF GMBH (Malte Müller, Klara Neubauer, Lukas Esser)
 
 [http://www.teleportacia.org/war/wara.htm](http://www.teleportacia.org/war/wara.htm)
 
-### 1998  Mark Napier, The Shredder
+### 1998 Mark Napier, The Shredder
 
 An Alternative web browser that turns web pages into digital confetti.
 
-&#x20;[potatoland.org/shredder](http://potatoland.org/shredder)
+[potatoland.org/shredder](http://potatoland.org/shredder)
 
 At a time when the web browser struggled against print metaphors like magazine and newspapter to find it’s own identity, The Shredder revealed the “soft” nature of the web. Markup, text, code, images and links are scattered across the screen like an instant Jackson Pollack. The raw material of the web, revealed, torn and tossed onto a heap.
 
@@ -64,3 +62,11 @@ At a time when the web browser struggled against print metaphors like magazine a
 [http://www.technart.net/](http://www.technart.net)
 
 {% embed url="https://player.vimeo.com/video/54352886" %}
+
+### 2020 Mmorph
+
+A good example of interactive internet music made by [Owen Hindley](https://owenhindley.co.uk)
+
+SVG animation techniques with mmorph’s audio engine, empying a combination of PD and the Heavy compiler. The end result is low-level Javascript that can be run in the browser.
+
+&#x20;[http://mmorph.massivemusic.com/](http://mmorph.massivemusic.com)
