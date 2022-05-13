@@ -34,6 +34,7 @@
 * [sensors](interfaces/sensors.md)
 * [camera](interfaces/camera.md)
 * [mic](interfaces/mic.md)
+* [midi](interfaces/midi.md)
 
 ## SCHEDULING
 
