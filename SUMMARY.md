@@ -76,11 +76,6 @@
 * [Sema](livecoding/sema.md)
 * [Livecoding at HEM](livecoding/livecoding-at-hem.md)
 
-## WEBGL
-
-* [helloGL](webgl/hellogl.md)
-* [eyetarget](webgl/eyetarget.md)
-
 ## NETWORKING
 
 * [Intro to networked performance](networking/intro-to-networked-performance.md)
@@ -94,6 +89,12 @@
 * [IA & ML](machine-learning/ia-and-ml.md)
 * [The ML process](machine-learning/the-ml-process.md)
 * [colabs and tools](machine-learning/colabs-and-tools.md)
+
+## METAVERSES & WEBGL
+
+* [helloGL](metaverses-and-webgl/hellogl.md)
+* [eyetarget](metaverses-and-webgl/eyetarget.md)
+* [Metaverse's introduction](metaverses-and-webgl/metaverses-introduction.md)
 
 ## TOOLS
 

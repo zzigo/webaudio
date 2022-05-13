@@ -1,8 +1,5 @@
 ---
 description: basic tools for this course
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
 ---
 
 # the browser
@@ -73,7 +70,7 @@ To check if a technology is implemented on a browser you can check it at [https:
 | ⌘⌥ + C   | inspect CSS and HTML elements on the preview |
 
 {% hint style="success" %}
-#### **Try this!**
+**Try this!**
 
 \
 `1. go to your browser`
