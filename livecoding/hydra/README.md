@@ -10,16 +10,14 @@ Hydra is inspired by modular synthesis where each module performs a specific ope
 Sandin Image Processor (1977) one of the influences of Hydra
 {% endembed %}
 
-
-
 Modular synths are generally **generators** (VCO, controlled voltage oscillator) or **modulators** (VCF, voltage-controlled filter).
 
 In hydra, this logic is followed and each function can be seen as a video synthesis module.
 
-Conceptually, Hydra is fundamentally based on two technical principles: the use of [WebRTC](../../networking/webrtc.md) and feedback.
+Conceptually, Hydra is fundamentally based on two technical principles: the use of [WebRTC](../../networking/webrtc/) and feedback.
 
 {% hint style="info" %}
-a strange recursion  between video-feedback and experimental music: the two video-feedback pionners Steina and Woody Vasulka founded The Kitchen in 1970
+a strange recursion between video-feedback and experimental music: the two video-feedback pionners Steina and Woody Vasulka founded The Kitchen in 1970
 {% endhint %}
 
 ### Important shortcuts
@@ -34,16 +32,14 @@ a strange recursion  between video-feedback and experimental music: the two vide
 {% hint style="success" %}
 Reference of all functions in Hydra:\
 [https://github.com/hydra-synth/hydra/blob/main/docs/funcs.md](https://github.com/hydra-synth/hydra/blob/main/docs/funcs.md)\
-\
-
+\\
 {% endhint %}
 
-### &#x20;Hydra from scratch
+### Hydra from scratch
 
-1. Go to  [https://hydra.ojack.xyz/](https://hydra.ojack.xyz) (check the important short-cuts above!)
+1. Go to [https://hydra.ojack.xyz/](https://hydra.ojack.xyz) (check the important short-cuts above!)
 2. Erase the demo code both selecting and erasing or pressing the trash-can (upper right bar)
-3. Connect a generator with the output\
-
+3. Connect a generator with the output\\
 
 ```
 osc().out()
@@ -84,5 +80,5 @@ src(s0).kaleid([1,2,4,8,16].fast(10))
 9\. Try another generator like `voronoi()`
 
 {% hint style="info" %}
-`A` **voronoi** is a pattern very found in nature, from mud dries to giraffes spots and also bubbles). Best way to explain voronoi in a simple way is describing  how bubbles squish together getting the same pattern based on where the bubbles touch.  The voronoi has three main components: the sites (average center), the segments (equidistant to the sites) and the nodes (the vertices equtan to three or more sites).
+`A` **voronoi** is a pattern very found in nature, from mud dries to giraffes spots and also bubbles). Best way to explain voronoi in a simple way is describing how bubbles squish together getting the same pattern based on where the bubbles touch. The voronoi has three main components: the sites (average center), the segments (equidistant to the sites) and the nodes (the vertices equtan to three or more sites).
 {% endhint %}

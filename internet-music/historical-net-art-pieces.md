@@ -65,8 +65,8 @@ At a time when the web browser struggled against print metaphors like magazine a
 
 ### 2020 Mmorph
 
-A good example of interactive internet music made by [Owen Hindley](https://owenhindley.co.uk)
+A good example of interactive internet music made by [Owen Hindley](https://owenhindley.co.uk/)
 
 SVG animation techniques with mmorph’s audio engine, empying a combination of PD and the Heavy compiler. The end result is low-level Javascript that can be run in the browser.
 
-&#x20;[http://mmorph.massivemusic.com/](http://mmorph.massivemusic.com)
+&#x20;[http://mmorph.massivemusic.com/](http://mmorph.massivemusic.com/)

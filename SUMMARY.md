@@ -82,7 +82,9 @@
 * [Flok](networking/flok.md)
 * [Networking Tools](networking/networking-tools.md)
 * [Freesound essentials](networking/freesound-essentials.md)
-* [WebRTC](networking/webrtc.md)
+* [WebRTC](networking/webrtc/README.md)
+  * [Creating a chat server](networking/webrtc/creating-a-chat-server.md)
+* [Page 1](networking/page-1.md)
 
 ## machine learning
 
