@@ -1,7 +1,7 @@
 # Table of contents
 
 * [▪ Welcome to WA-HEM](README.md)
-* [gallery](gallery.md)
+* [gallery](https://zzigo.github.io/internetmusic)
 
 ## INIT
 
