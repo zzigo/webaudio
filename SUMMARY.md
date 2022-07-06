@@ -97,6 +97,7 @@
 * [helloGL](metaverses-and-webgl/hellogl.md)
 * [eyetarget](metaverses-and-webgl/eyetarget.md)
 * [Metaverse's introduction](metaverses-and-webgl/metaverses-introduction.md)
+* [Online spatialization](metaverses-and-webgl/online-spatialization.md)
 
 ## TOOLS
 
