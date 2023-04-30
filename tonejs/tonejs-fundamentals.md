@@ -15,14 +15,17 @@ in order to avoid the error "Invoke user interaction" add this enclosing the ton
 {% endhint %}
 
 ```
-//attach a click listener to a play button
-document.querySelector('#play')?.addEventListener('click', async () => {
-	await Tone.start()
-	console.log('audio is ready')
-	
-	//tone.js code goes here
-	
-	}
+if (Tone.context.state !== 'running') {
+    Tone.context.resume();
+}
+
+document.documentElement.addEventListener(
+    "mousedown", function () {
+        mouse_IsDown = true;
+        if (Tone.context.state !== 'running') {
+            Tone.context.resume();
+        }
+    })
 ```
 
 ### Make a note
